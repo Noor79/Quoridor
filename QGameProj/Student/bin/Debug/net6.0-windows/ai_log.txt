@@ -1,0 +1,2045 @@
+10/13/2024 11:02:21 PM: AI Position: {X:4 Y:0}
+10/13/2024 11:02:21 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:02:21 PM: AI Walls Remaining: 10
+10/13/2024 11:02:21 PM: Opponent Walls Remaining: 10
+10/13/2024 11:02:21 PM: AI Path Length: 9
+10/13/2024 11:02:21 PM: Opponent Path Length: 9
+10/13/2024 11:02:21 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:02:21 PM: Prioritizing movement: Moving to {X:4 Y:1}
+10/13/2024 11:02:26 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:02:26 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:02:26 PM: AI Walls Remaining: 10
+10/13/2024 11:02:26 PM: Opponent Walls Remaining: 9
+10/13/2024 11:02:26 PM: AI Path Length: 10
+10/13/2024 11:02:26 PM: Opponent Path Length: 11
+10/13/2024 11:02:26 PM: Moving to: {X:5 Y:1}
+10/13/2024 11:02:26 PM: Prioritizing movement: Moving to {X:5 Y:1}
+10/13/2024 11:02:30 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:02:30 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:02:30 PM: AI Walls Remaining: 10
+10/13/2024 11:02:30 PM: Opponent Walls Remaining: 8
+10/13/2024 11:02:30 PM: AI Path Length: 12
+10/13/2024 11:02:30 PM: Opponent Path Length: 13
+10/13/2024 11:02:30 PM: Moving to: {X:6 Y:1}
+10/13/2024 11:02:30 PM: Prioritizing movement: Moving to {X:6 Y:1}
+10/13/2024 11:02:33 PM: AI Position: {X:6 Y:1}
+10/13/2024 11:02:33 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:02:33 PM: AI Walls Remaining: 10
+10/13/2024 11:02:33 PM: Opponent Walls Remaining: 8
+10/13/2024 11:02:33 PM: AI Path Length: 10
+10/13/2024 11:02:33 PM: Opponent Path Length: 12
+10/13/2024 11:02:33 PM: Moving to: {X:7 Y:1}
+10/13/2024 11:02:33 PM: Prioritizing movement: Moving to {X:7 Y:1}
+10/13/2024 11:02:43 PM: AI Position: {X:7 Y:1}
+10/13/2024 11:02:43 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:02:43 PM: AI Walls Remaining: 10
+10/13/2024 11:02:43 PM: Opponent Walls Remaining: 7
+10/13/2024 11:02:43 PM: AI Path Length: 18
+10/13/2024 11:02:43 PM: Opponent Path Length: 12
+10/13/2024 11:02:43 PM: Trying to place wall at: {X:3 Y:7}
+10/13/2024 11:02:43 PM: CanPlaceHorizontalWall at {X:3 Y:7}: True
+10/13/2024 11:02:43 PM: Placing Horizontal Wall at: {X:3 Y:7}
+10/13/2024 11:02:47 PM: AI Position: {X:7 Y:1}
+10/13/2024 11:02:47 PM: Opponent Position: {X:3 Y:7}
+10/13/2024 11:02:47 PM: AI Walls Remaining: 9
+10/13/2024 11:02:47 PM: Opponent Walls Remaining: 7
+10/13/2024 11:02:47 PM: AI Path Length: 18
+10/13/2024 11:02:47 PM: Opponent Path Length: 10
+10/13/2024 11:02:47 PM: Trying to place wall at: {X:2 Y:7}
+10/13/2024 11:02:47 PM: CanPlaceHorizontalWall at {X:2 Y:7}: True
+10/13/2024 11:02:47 PM: Placing Horizontal Wall at: {X:2 Y:7}
+10/13/2024 11:02:51 PM: Invalid move detected, recalculating...
+10/13/2024 11:02:51 PM: Invalid move detected, recalculating...
+10/13/2024 11:02:51 PM: AI Position: {X:7 Y:1}
+10/13/2024 11:02:51 PM: Opponent Position: {X:3 Y:7}
+10/13/2024 11:02:51 PM: AI Walls Remaining: 9
+10/13/2024 11:02:51 PM: Opponent Walls Remaining: 7
+10/13/2024 11:02:51 PM: AI Path Length: 18
+10/13/2024 11:02:51 PM: Opponent Path Length: 10
+10/13/2024 11:02:51 PM: Trying to place wall at: {X:2 Y:7}
+10/13/2024 11:02:51 PM: CanPlaceHorizontalWall at {X:2 Y:7}: True
+10/13/2024 11:02:51 PM: Placing Horizontal Wall at: {X:2 Y:7}
+10/13/2024 11:02:51 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:02:51 PM: Fallback: Moving along path to {X:6 Y:1}
+10/13/2024 11:02:57 PM: AI Position: {X:6 Y:1}
+10/13/2024 11:02:57 PM: Opponent Position: {X:3 Y:6}
+10/13/2024 11:02:57 PM: AI Walls Remaining: 9
+10/13/2024 11:02:57 PM: Opponent Walls Remaining: 7
+10/13/2024 11:02:57 PM: AI Path Length: 16
+10/13/2024 11:02:57 PM: Opponent Path Length: 9
+10/13/2024 11:02:57 PM: Trying to place wall at: {X:2 Y:6}
+10/13/2024 11:02:57 PM: CanPlaceHorizontalWall at {X:2 Y:6}: True
+10/13/2024 11:02:57 PM: Placing Horizontal Wall at: {X:2 Y:6}
+10/13/2024 11:03:05 PM: AI Position: {X:6 Y:1}
+10/13/2024 11:03:05 PM: Opponent Position: {X:2 Y:6}
+10/13/2024 11:03:05 PM: AI Walls Remaining: 8
+10/13/2024 11:03:05 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:05 PM: AI Path Length: 16
+10/13/2024 11:03:05 PM: Opponent Path Length: 7
+10/13/2024 11:03:05 PM: Trying to place wall at: {X:2 Y:5}
+10/13/2024 11:03:05 PM: CanPlaceHorizontalWall at {X:2 Y:5}: True
+10/13/2024 11:03:05 PM: Placing Horizontal Wall at: {X:2 Y:5}
+10/13/2024 11:03:07 PM: AI Position: {X:6 Y:1}
+10/13/2024 11:03:07 PM: Opponent Position: {X:1 Y:6}
+10/13/2024 11:03:07 PM: AI Walls Remaining: 7
+10/13/2024 11:03:07 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:07 PM: AI Path Length: 16
+10/13/2024 11:03:07 PM: Opponent Path Length: 7
+10/13/2024 11:03:07 PM: Trying to place wall at: {X:1 Y:5}
+10/13/2024 11:03:07 PM: CanPlaceHorizontalWall at {X:1 Y:5}: True
+10/13/2024 11:03:07 PM: Placing Horizontal Wall at: {X:1 Y:5}
+10/13/2024 11:03:11 PM: Invalid move detected, recalculating...
+10/13/2024 11:03:11 PM: Invalid move detected, recalculating...
+10/13/2024 11:03:11 PM: AI Position: {X:6 Y:1}
+10/13/2024 11:03:11 PM: Opponent Position: {X:1 Y:6}
+10/13/2024 11:03:11 PM: AI Walls Remaining: 7
+10/13/2024 11:03:11 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:11 PM: AI Path Length: 16
+10/13/2024 11:03:11 PM: Opponent Path Length: 7
+10/13/2024 11:03:11 PM: Trying to place wall at: {X:1 Y:5}
+10/13/2024 11:03:11 PM: CanPlaceHorizontalWall at {X:1 Y:5}: True
+10/13/2024 11:03:11 PM: Placing Horizontal Wall at: {X:1 Y:5}
+10/13/2024 11:03:11 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:03:11 PM: Fallback: Moving along path to {X:5 Y:1}
+10/13/2024 11:03:13 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:03:13 PM: Opponent Position: {X:1 Y:5}
+10/13/2024 11:03:13 PM: AI Walls Remaining: 7
+10/13/2024 11:03:13 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:13 PM: AI Path Length: 14
+10/13/2024 11:03:13 PM: Opponent Path Length: 6
+10/13/2024 11:03:13 PM: Trying to place wall at: {X:1 Y:4}
+10/13/2024 11:03:13 PM: CanPlaceHorizontalWall at {X:1 Y:4}: True
+10/13/2024 11:03:13 PM: Placing Horizontal Wall at: {X:1 Y:4}
+10/13/2024 11:03:18 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:03:18 PM: Opponent Position: {X:0 Y:5}
+10/13/2024 11:03:18 PM: AI Walls Remaining: 6
+10/13/2024 11:03:18 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:18 PM: AI Path Length: 14
+10/13/2024 11:03:18 PM: Opponent Path Length: 6
+10/13/2024 11:03:18 PM: Trying to place wall at: {X:0 Y:4}
+10/13/2024 11:03:18 PM: CanPlaceHorizontalWall at {X:0 Y:4}: True
+10/13/2024 11:03:18 PM: Placing Horizontal Wall at: {X:0 Y:4}
+10/13/2024 11:03:21 PM: Invalid move detected, recalculating...
+10/13/2024 11:03:21 PM: Invalid move detected, recalculating...
+10/13/2024 11:03:21 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:03:21 PM: Opponent Position: {X:0 Y:5}
+10/13/2024 11:03:21 PM: AI Walls Remaining: 6
+10/13/2024 11:03:21 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:21 PM: AI Path Length: 14
+10/13/2024 11:03:21 PM: Opponent Path Length: 6
+10/13/2024 11:03:21 PM: Trying to place wall at: {X:0 Y:4}
+10/13/2024 11:03:21 PM: CanPlaceHorizontalWall at {X:0 Y:4}: True
+10/13/2024 11:03:21 PM: Placing Horizontal Wall at: {X:0 Y:4}
+10/13/2024 11:03:21 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:03:21 PM: Fallback: Moving along path to {X:4 Y:1}
+10/13/2024 11:03:23 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:03:23 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:03:23 PM: AI Walls Remaining: 6
+10/13/2024 11:03:23 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:23 PM: AI Path Length: 14
+10/13/2024 11:03:23 PM: Opponent Path Length: 5
+10/13/2024 11:03:23 PM: Trying to place wall at: {X:0 Y:3}
+10/13/2024 11:03:23 PM: CanPlaceHorizontalWall at {X:0 Y:3}: True
+10/13/2024 11:03:23 PM: Placing Horizontal Wall at: {X:0 Y:3}
+10/13/2024 11:03:31 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:03:31 PM: Opponent Position: {X:1 Y:4}
+10/13/2024 11:03:31 PM: AI Walls Remaining: 5
+10/13/2024 11:03:31 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:31 PM: AI Path Length: 14
+10/13/2024 11:03:31 PM: Opponent Path Length: 7
+10/13/2024 11:03:31 PM: Trying to place wall at: {X:2 Y:4}
+10/13/2024 11:03:31 PM: CanPlaceHorizontalWall at {X:2 Y:4}: False
+10/13/2024 11:03:31 PM: CanPlaceVerticalWall at {X:2 Y:4}: True
+10/13/2024 11:03:31 PM: Placing Vertical Wall at: {X:2 Y:4}
+10/13/2024 11:03:34 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:03:34 PM: Opponent Position: {X:2 Y:4}
+10/13/2024 11:03:34 PM: AI Walls Remaining: 4
+10/13/2024 11:03:34 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:34 PM: AI Path Length: 14
+10/13/2024 11:03:34 PM: Opponent Path Length: 5
+10/13/2024 11:03:34 PM: Trying to place wall at: {X:2 Y:3}
+10/13/2024 11:03:34 PM: CanPlaceHorizontalWall at {X:2 Y:3}: True
+10/13/2024 11:03:34 PM: Placing Horizontal Wall at: {X:2 Y:3}
+10/13/2024 11:03:37 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:03:37 PM: Opponent Position: {X:1 Y:4}
+10/13/2024 11:03:37 PM: AI Walls Remaining: 3
+10/13/2024 11:03:37 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:37 PM: AI Path Length: 14
+10/13/2024 11:03:37 PM: Opponent Path Length: 17
+10/13/2024 11:03:37 PM: Moving to: {X:3 Y:1}
+10/13/2024 11:03:37 PM: Prioritizing movement: Moving to {X:3 Y:1}
+10/13/2024 11:03:38 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:03:38 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:03:38 PM: AI Walls Remaining: 3
+10/13/2024 11:03:38 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:38 PM: AI Path Length: 14
+10/13/2024 11:03:38 PM: Opponent Path Length: 17
+10/13/2024 11:03:38 PM: Moving to: {X:2 Y:1}
+10/13/2024 11:03:38 PM: Prioritizing movement: Moving to {X:2 Y:1}
+10/13/2024 11:03:45 PM: AI Position: {X:2 Y:1}
+10/13/2024 11:03:45 PM: Opponent Position: {X:0 Y:5}
+10/13/2024 11:03:45 PM: AI Walls Remaining: 3
+10/13/2024 11:03:45 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:45 PM: AI Path Length: 12
+10/13/2024 11:03:45 PM: Opponent Path Length: 16
+10/13/2024 11:03:45 PM: Moving to: {X:2 Y:2}
+10/13/2024 11:03:45 PM: Prioritizing movement: Moving to {X:2 Y:2}
+10/13/2024 11:03:48 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:03:48 PM: Opponent Position: {X:0 Y:6}
+10/13/2024 11:03:48 PM: AI Walls Remaining: 3
+10/13/2024 11:03:48 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:48 PM: AI Path Length: 11
+10/13/2024 11:03:48 PM: Opponent Path Length: 15
+10/13/2024 11:03:48 PM: Moving to: {X:3 Y:2}
+10/13/2024 11:03:48 PM: Prioritizing movement: Moving to {X:3 Y:2}
+10/13/2024 11:03:49 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:03:49 PM: Opponent Position: {X:0 Y:7}
+10/13/2024 11:03:49 PM: AI Walls Remaining: 3
+10/13/2024 11:03:49 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:49 PM: AI Path Length: 11
+10/13/2024 11:03:49 PM: Opponent Path Length: 16
+10/13/2024 11:03:49 PM: Moving to: {X:4 Y:2}
+10/13/2024 11:03:49 PM: Prioritizing movement: Moving to {X:4 Y:2}
+10/13/2024 11:03:52 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:03:52 PM: Opponent Position: {X:1 Y:7}
+10/13/2024 11:03:52 PM: AI Walls Remaining: 3
+10/13/2024 11:03:52 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:52 PM: AI Path Length: 9
+10/13/2024 11:03:52 PM: Opponent Path Length: 14
+10/13/2024 11:03:52 PM: Moving to: {X:5 Y:2}
+10/13/2024 11:03:52 PM: Prioritizing movement: Moving to {X:5 Y:2}
+10/13/2024 11:03:54 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:03:54 PM: Opponent Position: {X:2 Y:7}
+10/13/2024 11:03:54 PM: AI Walls Remaining: 3
+10/13/2024 11:03:54 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:54 PM: AI Path Length: 7
+10/13/2024 11:03:54 PM: Opponent Path Length: 12
+10/13/2024 11:03:54 PM: Moving to: {X:5 Y:3}
+10/13/2024 11:03:54 PM: Prioritizing movement: Moving to {X:5 Y:3}
+10/13/2024 11:03:57 PM: AI Position: {X:5 Y:3}
+10/13/2024 11:03:57 PM: Opponent Position: {X:3 Y:7}
+10/13/2024 11:03:57 PM: AI Walls Remaining: 3
+10/13/2024 11:03:57 PM: Opponent Walls Remaining: 7
+10/13/2024 11:03:57 PM: AI Path Length: 6
+10/13/2024 11:03:57 PM: Opponent Path Length: 12
+10/13/2024 11:03:57 PM: Moving to: {X:5 Y:4}
+10/13/2024 11:03:57 PM: Prioritizing movement: Moving to {X:5 Y:4}
+10/13/2024 11:04:06 PM: AI Position: {X:5 Y:4}
+10/13/2024 11:04:06 PM: Opponent Position: {X:3 Y:7}
+10/13/2024 11:04:06 PM: AI Walls Remaining: 3
+10/13/2024 11:04:06 PM: Opponent Walls Remaining: 6
+10/13/2024 11:04:06 PM: AI Path Length: 7
+10/13/2024 11:04:06 PM: Opponent Path Length: 16
+10/13/2024 11:04:06 PM: Moving to: {X:6 Y:4}
+10/13/2024 11:04:06 PM: Prioritizing movement: Moving to {X:6 Y:4}
+10/13/2024 11:04:17 PM: AI Position: {X:6 Y:4}
+10/13/2024 11:04:17 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:04:17 PM: AI Walls Remaining: 3
+10/13/2024 11:04:17 PM: Opponent Walls Remaining: 6
+10/13/2024 11:04:17 PM: AI Path Length: 5
+10/13/2024 11:04:17 PM: Opponent Path Length: 16
+10/13/2024 11:04:17 PM: Moving to: {X:6 Y:5}
+10/13/2024 11:04:17 PM: Prioritizing movement: Moving to {X:6 Y:5}
+10/13/2024 11:04:20 PM: AI Position: {X:6 Y:5}
+10/13/2024 11:04:20 PM: Opponent Position: {X:5 Y:7}
+10/13/2024 11:04:20 PM: AI Walls Remaining: 3
+10/13/2024 11:04:20 PM: Opponent Walls Remaining: 6
+10/13/2024 11:04:20 PM: AI Path Length: 4
+10/13/2024 11:04:20 PM: Opponent Path Length: 16
+10/13/2024 11:04:20 PM: Moving to: {X:6 Y:6}
+10/13/2024 11:04:20 PM: Prioritizing movement: Moving to {X:6 Y:6}
+10/13/2024 11:04:22 PM: AI Position: {X:6 Y:6}
+10/13/2024 11:04:22 PM: Opponent Position: {X:6 Y:7}
+10/13/2024 11:04:22 PM: AI Walls Remaining: 3
+10/13/2024 11:04:22 PM: Opponent Walls Remaining: 6
+10/13/2024 11:04:22 PM: AI Path Length: 3
+10/13/2024 11:04:22 PM: Opponent Path Length: 16
+10/13/2024 11:04:22 PM: Moving to: {X:6 Y:7}
+10/13/2024 11:04:22 PM: Prioritizing movement: Moving to {X:6 Y:7}
+10/13/2024 11:04:24 PM: AI Position: {X:6 Y:7}
+10/13/2024 11:04:24 PM: Opponent Position: {X:6 Y:6}
+10/13/2024 11:04:24 PM: AI Walls Remaining: 3
+10/13/2024 11:04:24 PM: Opponent Walls Remaining: 6
+10/13/2024 11:04:24 PM: AI Path Length: 2
+10/13/2024 11:04:24 PM: Opponent Path Length: 15
+10/13/2024 11:04:24 PM: Moving to: {X:6 Y:8}
+10/13/2024 11:04:24 PM: Prioritizing movement: Moving to {X:6 Y:8}
+10/13/2024 11:05:03 PM: AI Position: {X:4 Y:0}
+10/13/2024 11:05:03 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:05:03 PM: AI Walls Remaining: 10
+10/13/2024 11:05:03 PM: Opponent Walls Remaining: 10
+10/13/2024 11:05:03 PM: AI Path Length: 9
+10/13/2024 11:05:03 PM: Opponent Path Length: 9
+10/13/2024 11:05:03 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:05:03 PM: Prioritizing movement: Moving to {X:4 Y:1}
+10/13/2024 11:05:06 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:05:06 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:05:06 PM: AI Walls Remaining: 10
+10/13/2024 11:05:06 PM: Opponent Walls Remaining: 10
+10/13/2024 11:05:06 PM: AI Path Length: 8
+10/13/2024 11:05:06 PM: Opponent Path Length: 8
+10/13/2024 11:05:06 PM: Moving to: {X:4 Y:2}
+10/13/2024 11:05:06 PM: Prioritizing movement: Moving to {X:4 Y:2}
+10/13/2024 11:05:08 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:05:08 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:05:08 PM: AI Walls Remaining: 10
+10/13/2024 11:05:08 PM: Opponent Walls Remaining: 9
+10/13/2024 11:05:08 PM: AI Path Length: 9
+10/13/2024 11:05:08 PM: Opponent Path Length: 10
+10/13/2024 11:05:08 PM: Moving to: {X:5 Y:2}
+10/13/2024 11:05:08 PM: Prioritizing movement: Moving to {X:5 Y:2}
+10/13/2024 11:05:11 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:05:11 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:05:11 PM: AI Walls Remaining: 10
+10/13/2024 11:05:11 PM: Opponent Walls Remaining: 8
+10/13/2024 11:05:11 PM: AI Path Length: 11
+10/13/2024 11:05:11 PM: Opponent Path Length: 12
+10/13/2024 11:05:11 PM: Moving to: {X:6 Y:2}
+10/13/2024 11:05:11 PM: Prioritizing movement: Moving to {X:6 Y:2}
+10/13/2024 11:05:17 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:05:17 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:05:17 PM: AI Walls Remaining: 10
+10/13/2024 11:05:17 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:17 PM: AI Path Length: 15
+10/13/2024 11:05:17 PM: Opponent Path Length: 12
+10/13/2024 11:05:17 PM: Trying to place wall at: {X:3 Y:7}
+10/13/2024 11:05:17 PM: CanPlaceHorizontalWall at {X:3 Y:7}: True
+10/13/2024 11:05:17 PM: Placing Horizontal Wall at: {X:3 Y:7}
+10/13/2024 11:05:19 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:05:19 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:05:19 PM: AI Walls Remaining: 9
+10/13/2024 11:05:19 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:19 PM: AI Path Length: 15
+10/13/2024 11:05:19 PM: Opponent Path Length: 11
+10/13/2024 11:05:19 PM: Trying to place wall at: {X:3 Y:6}
+10/13/2024 11:05:19 PM: CanPlaceHorizontalWall at {X:3 Y:6}: True
+10/13/2024 11:05:19 PM: Placing Horizontal Wall at: {X:3 Y:6}
+10/13/2024 11:05:23 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:05:23 PM: Opponent Position: {X:3 Y:6}
+10/13/2024 11:05:23 PM: AI Walls Remaining: 8
+10/13/2024 11:05:23 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:23 PM: AI Path Length: 15
+10/13/2024 11:05:23 PM: Opponent Path Length: 9
+10/13/2024 11:05:23 PM: Trying to place wall at: {X:2 Y:6}
+10/13/2024 11:05:23 PM: CanPlaceHorizontalWall at {X:2 Y:6}: True
+10/13/2024 11:05:23 PM: Placing Horizontal Wall at: {X:2 Y:6}
+10/13/2024 11:05:26 PM: Invalid move detected, recalculating...
+10/13/2024 11:05:26 PM: Invalid move detected, recalculating...
+10/13/2024 11:05:26 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:05:26 PM: Opponent Position: {X:3 Y:6}
+10/13/2024 11:05:26 PM: AI Walls Remaining: 8
+10/13/2024 11:05:26 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:26 PM: AI Path Length: 15
+10/13/2024 11:05:26 PM: Opponent Path Length: 9
+10/13/2024 11:05:26 PM: Trying to place wall at: {X:2 Y:6}
+10/13/2024 11:05:26 PM: CanPlaceHorizontalWall at {X:2 Y:6}: True
+10/13/2024 11:05:26 PM: Placing Horizontal Wall at: {X:2 Y:6}
+10/13/2024 11:05:26 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:05:26 PM: Fallback: Moving along path to {X:5 Y:2}
+10/13/2024 11:05:30 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:05:30 PM: Opponent Position: {X:2 Y:6}
+10/13/2024 11:05:30 PM: AI Walls Remaining: 8
+10/13/2024 11:05:30 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:30 PM: AI Path Length: 13
+10/13/2024 11:05:30 PM: Opponent Path Length: 7
+10/13/2024 11:05:30 PM: Trying to place wall at: {X:2 Y:5}
+10/13/2024 11:05:30 PM: CanPlaceHorizontalWall at {X:2 Y:5}: True
+10/13/2024 11:05:30 PM: Placing Horizontal Wall at: {X:2 Y:5}
+10/13/2024 11:05:34 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:05:34 PM: Opponent Position: {X:1 Y:6}
+10/13/2024 11:05:34 PM: AI Walls Remaining: 7
+10/13/2024 11:05:34 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:34 PM: AI Path Length: 13
+10/13/2024 11:05:34 PM: Opponent Path Length: 7
+10/13/2024 11:05:34 PM: Trying to place wall at: {X:1 Y:5}
+10/13/2024 11:05:34 PM: CanPlaceHorizontalWall at {X:1 Y:5}: True
+10/13/2024 11:05:34 PM: Placing Horizontal Wall at: {X:1 Y:5}
+10/13/2024 11:05:37 PM: Invalid move detected, recalculating...
+10/13/2024 11:05:37 PM: Invalid move detected, recalculating...
+10/13/2024 11:05:37 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:05:37 PM: Opponent Position: {X:1 Y:6}
+10/13/2024 11:05:37 PM: AI Walls Remaining: 7
+10/13/2024 11:05:37 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:37 PM: AI Path Length: 13
+10/13/2024 11:05:37 PM: Opponent Path Length: 7
+10/13/2024 11:05:37 PM: Trying to place wall at: {X:1 Y:5}
+10/13/2024 11:05:37 PM: CanPlaceHorizontalWall at {X:1 Y:5}: True
+10/13/2024 11:05:37 PM: Placing Horizontal Wall at: {X:1 Y:5}
+10/13/2024 11:05:37 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:05:37 PM: Fallback: Moving along path to {X:4 Y:2}
+10/13/2024 11:05:39 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:05:39 PM: Opponent Position: {X:1 Y:5}
+10/13/2024 11:05:39 PM: AI Walls Remaining: 7
+10/13/2024 11:05:39 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:39 PM: AI Path Length: 13
+10/13/2024 11:05:39 PM: Opponent Path Length: 6
+10/13/2024 11:05:39 PM: Trying to place wall at: {X:1 Y:4}
+10/13/2024 11:05:39 PM: CanPlaceHorizontalWall at {X:1 Y:4}: True
+10/13/2024 11:05:39 PM: Placing Horizontal Wall at: {X:1 Y:4}
+10/13/2024 11:05:48 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:05:48 PM: Opponent Position: {X:0 Y:5}
+10/13/2024 11:05:48 PM: AI Walls Remaining: 6
+10/13/2024 11:05:48 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:48 PM: AI Path Length: 13
+10/13/2024 11:05:48 PM: Opponent Path Length: 6
+10/13/2024 11:05:48 PM: Trying to place wall at: {X:0 Y:4}
+10/13/2024 11:05:48 PM: CanPlaceHorizontalWall at {X:0 Y:4}: True
+10/13/2024 11:05:48 PM: Placing Horizontal Wall at: {X:0 Y:4}
+10/13/2024 11:05:51 PM: Invalid move detected, recalculating...
+10/13/2024 11:05:51 PM: Invalid move detected, recalculating...
+10/13/2024 11:05:51 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:05:51 PM: Opponent Position: {X:0 Y:5}
+10/13/2024 11:05:51 PM: AI Walls Remaining: 6
+10/13/2024 11:05:51 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:51 PM: AI Path Length: 13
+10/13/2024 11:05:51 PM: Opponent Path Length: 6
+10/13/2024 11:05:51 PM: Trying to place wall at: {X:0 Y:4}
+10/13/2024 11:05:51 PM: CanPlaceHorizontalWall at {X:0 Y:4}: True
+10/13/2024 11:05:51 PM: Placing Horizontal Wall at: {X:0 Y:4}
+10/13/2024 11:05:51 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:05:51 PM: Fallback: Moving along path to {X:3 Y:2}
+10/13/2024 11:05:59 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:05:59 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:05:59 PM: AI Walls Remaining: 6
+10/13/2024 11:05:59 PM: Opponent Walls Remaining: 7
+10/13/2024 11:05:59 PM: AI Path Length: 13
+10/13/2024 11:05:59 PM: Opponent Path Length: 5
+10/13/2024 11:05:59 PM: Trying to place wall at: {X:0 Y:3}
+10/13/2024 11:05:59 PM: CanPlaceHorizontalWall at {X:0 Y:3}: True
+10/13/2024 11:05:59 PM: Placing Horizontal Wall at: {X:0 Y:3}
+10/13/2024 11:06:02 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:06:02 PM: Opponent Position: {X:1 Y:4}
+10/13/2024 11:06:02 PM: AI Walls Remaining: 5
+10/13/2024 11:06:02 PM: Opponent Walls Remaining: 7
+10/13/2024 11:06:02 PM: AI Path Length: 13
+10/13/2024 11:06:02 PM: Opponent Path Length: 7
+10/13/2024 11:06:02 PM: Trying to place wall at: {X:2 Y:4}
+10/13/2024 11:06:02 PM: CanPlaceHorizontalWall at {X:2 Y:4}: False
+10/13/2024 11:06:02 PM: CanPlaceVerticalWall at {X:2 Y:4}: True
+10/13/2024 11:06:02 PM: Placing Vertical Wall at: {X:2 Y:4}
+10/13/2024 11:06:04 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:06:04 PM: Opponent Position: {X:2 Y:4}
+10/13/2024 11:06:04 PM: AI Walls Remaining: 4
+10/13/2024 11:06:04 PM: Opponent Walls Remaining: 7
+10/13/2024 11:06:04 PM: AI Path Length: 13
+10/13/2024 11:06:04 PM: Opponent Path Length: 5
+10/13/2024 11:06:04 PM: Trying to place wall at: {X:2 Y:3}
+10/13/2024 11:06:04 PM: CanPlaceHorizontalWall at {X:2 Y:3}: True
+10/13/2024 11:06:04 PM: Placing Horizontal Wall at: {X:2 Y:3}
+10/13/2024 11:06:12 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:06:12 PM: Opponent Position: {X:1 Y:4}
+10/13/2024 11:06:12 PM: AI Walls Remaining: 3
+10/13/2024 11:06:12 PM: Opponent Walls Remaining: 7
+10/13/2024 11:06:12 PM: AI Path Length: 13
+10/13/2024 11:06:12 PM: Opponent Path Length: 17
+10/13/2024 11:06:12 PM: Moving to: {X:2 Y:2}
+10/13/2024 11:06:12 PM: Prioritizing movement: Moving to {X:2 Y:2}
+10/13/2024 11:06:13 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:06:13 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:06:13 PM: AI Walls Remaining: 3
+10/13/2024 11:06:13 PM: Opponent Walls Remaining: 7
+10/13/2024 11:06:13 PM: AI Path Length: 11
+10/13/2024 11:06:13 PM: Opponent Path Length: 17
+10/13/2024 11:06:13 PM: Moving to: {X:2 Y:3}
+10/13/2024 11:06:13 PM: Prioritizing movement: Moving to {X:2 Y:3}
+10/13/2024 11:06:20 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:06:20 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:06:20 PM: AI Walls Remaining: 3
+10/13/2024 11:06:20 PM: Opponent Walls Remaining: 6
+10/13/2024 11:06:20 PM: AI Path Length: 10
+10/13/2024 11:06:20 PM: Opponent Path Length: 17
+10/13/2024 11:06:20 PM: Moving to: {X:3 Y:3}
+10/13/2024 11:06:20 PM: Prioritizing movement: Moving to {X:3 Y:3}
+10/13/2024 11:06:41 PM: AI Position: {X:3 Y:3}
+10/13/2024 11:06:41 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:06:41 PM: AI Walls Remaining: 3
+10/13/2024 11:06:41 PM: Opponent Walls Remaining: 5
+10/13/2024 11:06:41 PM: AI Path Length: 10
+10/13/2024 11:06:41 PM: Opponent Path Length: 17
+10/13/2024 11:06:41 PM: Moving to: {X:4 Y:3}
+10/13/2024 11:06:41 PM: Prioritizing movement: Moving to {X:4 Y:3}
+10/13/2024 11:06:45 PM: AI Position: {X:4 Y:3}
+10/13/2024 11:06:45 PM: Opponent Position: {X:0 Y:5}
+10/13/2024 11:06:45 PM: AI Walls Remaining: 3
+10/13/2024 11:06:45 PM: Opponent Walls Remaining: 5
+10/13/2024 11:06:45 PM: AI Path Length: 8
+10/13/2024 11:06:45 PM: Opponent Path Length: 16
+10/13/2024 11:06:45 PM: Moving to: {X:5 Y:3}
+10/13/2024 11:06:45 PM: Prioritizing movement: Moving to {X:5 Y:3}
+10/13/2024 11:06:46 PM: AI Position: {X:5 Y:3}
+10/13/2024 11:06:46 PM: Opponent Position: {X:0 Y:6}
+10/13/2024 11:06:46 PM: AI Walls Remaining: 3
+10/13/2024 11:06:46 PM: Opponent Walls Remaining: 5
+10/13/2024 11:06:46 PM: AI Path Length: 6
+10/13/2024 11:06:46 PM: Opponent Path Length: 15
+10/13/2024 11:06:46 PM: Moving to: {X:5 Y:4}
+10/13/2024 11:06:46 PM: Prioritizing movement: Moving to {X:5 Y:4}
+10/13/2024 11:06:48 PM: AI Position: {X:5 Y:4}
+10/13/2024 11:06:48 PM: Opponent Position: {X:1 Y:6}
+10/13/2024 11:06:48 PM: AI Walls Remaining: 3
+10/13/2024 11:06:48 PM: Opponent Walls Remaining: 5
+10/13/2024 11:06:48 PM: AI Path Length: 5
+10/13/2024 11:06:48 PM: Opponent Path Length: 13
+10/13/2024 11:06:48 PM: Moving to: {X:5 Y:5}
+10/13/2024 11:06:48 PM: Prioritizing movement: Moving to {X:5 Y:5}
+10/13/2024 11:06:51 PM: AI Position: {X:5 Y:5}
+10/13/2024 11:06:51 PM: Opponent Position: {X:1 Y:6}
+10/13/2024 11:06:51 PM: AI Walls Remaining: 3
+10/13/2024 11:06:51 PM: Opponent Walls Remaining: 4
+10/13/2024 11:06:51 PM: AI Path Length: 8
+10/13/2024 11:06:51 PM: Opponent Path Length: 13
+10/13/2024 11:06:51 PM: Moving to: {X:6 Y:5}
+10/13/2024 11:06:51 PM: Prioritizing movement: Moving to {X:6 Y:5}
+10/13/2024 11:06:54 PM: AI Position: {X:6 Y:5}
+10/13/2024 11:06:54 PM: Opponent Position: {X:1 Y:6}
+10/13/2024 11:06:54 PM: AI Walls Remaining: 3
+10/13/2024 11:06:54 PM: Opponent Walls Remaining: 3
+10/13/2024 11:06:54 PM: AI Path Length: 10
+10/13/2024 11:06:54 PM: Opponent Path Length: 13
+10/13/2024 11:06:54 PM: Moving to: {X:6 Y:4}
+10/13/2024 11:06:54 PM: Prioritizing movement: Moving to {X:6 Y:4}
+10/13/2024 11:06:57 PM: AI Position: {X:6 Y:4}
+10/13/2024 11:06:57 PM: Opponent Position: {X:2 Y:6}
+10/13/2024 11:06:57 PM: AI Walls Remaining: 3
+10/13/2024 11:06:57 PM: Opponent Walls Remaining: 3
+10/13/2024 11:06:57 PM: AI Path Length: 9
+10/13/2024 11:06:57 PM: Opponent Path Length: 11
+10/13/2024 11:06:57 PM: Moving to: {X:6 Y:3}
+10/13/2024 11:06:57 PM: Prioritizing movement: Moving to {X:6 Y:3}
+10/13/2024 11:06:59 PM: AI Position: {X:6 Y:3}
+10/13/2024 11:06:59 PM: Opponent Position: {X:3 Y:6}
+10/13/2024 11:06:59 PM: AI Walls Remaining: 3
+10/13/2024 11:06:59 PM: Opponent Walls Remaining: 3
+10/13/2024 11:06:59 PM: AI Path Length: 8
+10/13/2024 11:06:59 PM: Opponent Path Length: 11
+10/13/2024 11:06:59 PM: Moving to: {X:7 Y:3}
+10/13/2024 11:06:59 PM: Prioritizing movement: Moving to {X:7 Y:3}
+10/13/2024 11:07:02 PM: AI Position: {X:7 Y:3}
+10/13/2024 11:07:02 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:07:02 PM: AI Walls Remaining: 3
+10/13/2024 11:07:02 PM: Opponent Walls Remaining: 3
+10/13/2024 11:07:02 PM: AI Path Length: 6
+10/13/2024 11:07:02 PM: Opponent Path Length: 11
+10/13/2024 11:07:02 PM: Moving to: {X:7 Y:4}
+10/13/2024 11:07:02 PM: Prioritizing movement: Moving to {X:7 Y:4}
+10/13/2024 11:07:04 PM: AI Position: {X:7 Y:4}
+10/13/2024 11:07:04 PM: Opponent Position: {X:4 Y:5}
+10/13/2024 11:07:04 PM: AI Walls Remaining: 3
+10/13/2024 11:07:04 PM: Opponent Walls Remaining: 3
+10/13/2024 11:07:04 PM: AI Path Length: 5
+10/13/2024 11:07:04 PM: Opponent Path Length: 10
+10/13/2024 11:07:04 PM: Moving to: {X:7 Y:5}
+10/13/2024 11:07:04 PM: Prioritizing movement: Moving to {X:7 Y:5}
+10/13/2024 11:07:09 PM: AI Position: {X:7 Y:5}
+10/13/2024 11:07:09 PM: Opponent Position: {X:4 Y:5}
+10/13/2024 11:07:09 PM: AI Walls Remaining: 3
+10/13/2024 11:07:09 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:09 PM: AI Path Length: 18
+10/13/2024 11:07:09 PM: Opponent Path Length: 10
+10/13/2024 11:07:09 PM: Trying to place wall at: {X:4 Y:4}
+10/13/2024 11:07:09 PM: CanPlaceHorizontalWall at {X:4 Y:4}: True
+10/13/2024 11:07:09 PM: Placing Horizontal Wall at: {X:4 Y:4}
+10/13/2024 11:07:14 PM: AI Position: {X:7 Y:5}
+10/13/2024 11:07:14 PM: Opponent Position: {X:3 Y:5}
+10/13/2024 11:07:14 PM: AI Walls Remaining: 2
+10/13/2024 11:07:14 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:14 PM: AI Path Length: 20
+10/13/2024 11:07:14 PM: Opponent Path Length: 10
+10/13/2024 11:07:14 PM: Trying to place wall at: {X:3 Y:4}
+10/13/2024 11:07:14 PM: CanPlaceHorizontalWall at {X:3 Y:4}: True
+10/13/2024 11:07:14 PM: Placing Horizontal Wall at: {X:3 Y:4}
+10/13/2024 11:07:17 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:17 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:17 PM: AI Position: {X:7 Y:5}
+10/13/2024 11:07:17 PM: Opponent Position: {X:3 Y:5}
+10/13/2024 11:07:17 PM: AI Walls Remaining: 2
+10/13/2024 11:07:17 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:17 PM: AI Path Length: 20
+10/13/2024 11:07:17 PM: Opponent Path Length: 10
+10/13/2024 11:07:17 PM: Trying to place wall at: {X:3 Y:4}
+10/13/2024 11:07:17 PM: CanPlaceHorizontalWall at {X:3 Y:4}: True
+10/13/2024 11:07:17 PM: Placing Horizontal Wall at: {X:3 Y:4}
+10/13/2024 11:07:17 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:07:17 PM: Fallback: Moving along path to {X:7 Y:4}
+10/13/2024 11:07:19 PM: AI Position: {X:7 Y:4}
+10/13/2024 11:07:19 PM: Opponent Position: {X:3 Y:4}
+10/13/2024 11:07:19 PM: AI Walls Remaining: 2
+10/13/2024 11:07:19 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:19 PM: AI Path Length: 19
+10/13/2024 11:07:19 PM: Opponent Path Length: 9
+10/13/2024 11:07:19 PM: Trying to place wall at: {X:4 Y:4}
+10/13/2024 11:07:19 PM: CanPlaceHorizontalWall at {X:4 Y:4}: False
+10/13/2024 11:07:19 PM: CanPlaceVerticalWall at {X:4 Y:4}: False
+10/13/2024 11:07:19 PM: Wall placement failed at: {X:4 Y:4} - Moving instead.
+10/13/2024 11:07:19 PM: Moving to: {X:7 Y:3}
+10/13/2024 11:07:29 PM: AI Position: {X:7 Y:3}
+10/13/2024 11:07:29 PM: Opponent Position: {X:4 Y:4}
+10/13/2024 11:07:29 PM: AI Walls Remaining: 2
+10/13/2024 11:07:29 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:29 PM: AI Path Length: 18
+10/13/2024 11:07:29 PM: Opponent Path Length: 9
+10/13/2024 11:07:29 PM: Trying to place wall at: {X:4 Y:3}
+10/13/2024 11:07:29 PM: CanPlaceHorizontalWall at {X:4 Y:3}: True
+10/13/2024 11:07:29 PM: Placing Horizontal Wall at: {X:4 Y:3}
+10/13/2024 11:07:32 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:32 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:32 PM: AI Position: {X:7 Y:3}
+10/13/2024 11:07:32 PM: Opponent Position: {X:4 Y:4}
+10/13/2024 11:07:32 PM: AI Walls Remaining: 2
+10/13/2024 11:07:32 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:32 PM: AI Path Length: 18
+10/13/2024 11:07:32 PM: Opponent Path Length: 9
+10/13/2024 11:07:32 PM: Trying to place wall at: {X:4 Y:3}
+10/13/2024 11:07:32 PM: CanPlaceHorizontalWall at {X:4 Y:3}: True
+10/13/2024 11:07:32 PM: Placing Horizontal Wall at: {X:4 Y:3}
+10/13/2024 11:07:32 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:07:32 PM: Fallback: Moving along path to {X:6 Y:3}
+10/13/2024 11:07:35 PM: AI Position: {X:6 Y:3}
+10/13/2024 11:07:35 PM: Opponent Position: {X:4 Y:3}
+10/13/2024 11:07:35 PM: AI Walls Remaining: 2
+10/13/2024 11:07:35 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:35 PM: AI Path Length: 16
+10/13/2024 11:07:35 PM: Opponent Path Length: 8
+10/13/2024 11:07:35 PM: Trying to place wall at: {X:3 Y:3}
+10/13/2024 11:07:35 PM: CanPlaceHorizontalWall at {X:3 Y:3}: False
+10/13/2024 11:07:35 PM: CanPlaceVerticalWall at {X:3 Y:3}: True
+10/13/2024 11:07:35 PM: Placing Vertical Wall at: {X:3 Y:3}
+10/13/2024 11:07:39 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:39 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:39 PM: AI Position: {X:6 Y:3}
+10/13/2024 11:07:39 PM: Opponent Position: {X:4 Y:3}
+10/13/2024 11:07:39 PM: AI Walls Remaining: 2
+10/13/2024 11:07:39 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:39 PM: AI Path Length: 16
+10/13/2024 11:07:39 PM: Opponent Path Length: 8
+10/13/2024 11:07:39 PM: Trying to place wall at: {X:3 Y:3}
+10/13/2024 11:07:39 PM: CanPlaceHorizontalWall at {X:3 Y:3}: False
+10/13/2024 11:07:39 PM: CanPlaceVerticalWall at {X:3 Y:3}: True
+10/13/2024 11:07:39 PM: Placing Vertical Wall at: {X:3 Y:3}
+10/13/2024 11:07:39 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:07:39 PM: Fallback: Moving along path to {X:5 Y:3}
+10/13/2024 11:07:40 PM: AI Position: {X:5 Y:3}
+10/13/2024 11:07:40 PM: Opponent Position: {X:3 Y:3}
+10/13/2024 11:07:40 PM: AI Walls Remaining: 2
+10/13/2024 11:07:40 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:40 PM: AI Path Length: 14
+10/13/2024 11:07:40 PM: Opponent Path Length: 6
+10/13/2024 11:07:40 PM: Trying to place wall at: {X:2 Y:3}
+10/13/2024 11:07:40 PM: CanPlaceHorizontalWall at {X:2 Y:3}: False
+10/13/2024 11:07:40 PM: CanPlaceVerticalWall at {X:2 Y:3}: True
+10/13/2024 11:07:40 PM: Placing Vertical Wall at: {X:2 Y:3}
+10/13/2024 11:07:43 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:43 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:43 PM: AI Position: {X:5 Y:3}
+10/13/2024 11:07:43 PM: Opponent Position: {X:3 Y:3}
+10/13/2024 11:07:43 PM: AI Walls Remaining: 2
+10/13/2024 11:07:43 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:43 PM: AI Path Length: 14
+10/13/2024 11:07:43 PM: Opponent Path Length: 6
+10/13/2024 11:07:43 PM: Trying to place wall at: {X:2 Y:3}
+10/13/2024 11:07:43 PM: CanPlaceHorizontalWall at {X:2 Y:3}: False
+10/13/2024 11:07:43 PM: CanPlaceVerticalWall at {X:2 Y:3}: True
+10/13/2024 11:07:43 PM: Placing Vertical Wall at: {X:2 Y:3}
+10/13/2024 11:07:43 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:07:43 PM: Fallback: Moving along path to {X:4 Y:3}
+10/13/2024 11:07:45 PM: AI Position: {X:4 Y:3}
+10/13/2024 11:07:45 PM: Opponent Position: {X:2 Y:3}
+10/13/2024 11:07:45 PM: AI Walls Remaining: 2
+10/13/2024 11:07:45 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:45 PM: AI Path Length: 12
+10/13/2024 11:07:45 PM: Opponent Path Length: 4
+10/13/2024 11:07:45 PM: Trying to place wall at: {X:2 Y:2}
+10/13/2024 11:07:45 PM: CanPlaceHorizontalWall at {X:2 Y:2}: True
+10/13/2024 11:07:45 PM: Placing Horizontal Wall at: {X:2 Y:2}
+10/13/2024 11:07:48 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:48 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:48 PM: AI Position: {X:4 Y:3}
+10/13/2024 11:07:48 PM: Opponent Position: {X:2 Y:3}
+10/13/2024 11:07:48 PM: AI Walls Remaining: 2
+10/13/2024 11:07:48 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:48 PM: AI Path Length: 12
+10/13/2024 11:07:48 PM: Opponent Path Length: 4
+10/13/2024 11:07:48 PM: Trying to place wall at: {X:2 Y:2}
+10/13/2024 11:07:48 PM: CanPlaceHorizontalWall at {X:2 Y:2}: True
+10/13/2024 11:07:48 PM: Placing Horizontal Wall at: {X:2 Y:2}
+10/13/2024 11:07:48 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:07:48 PM: Fallback: Moving along path to {X:4 Y:4}
+10/13/2024 11:07:50 PM: AI Position: {X:4 Y:4}
+10/13/2024 11:07:50 PM: Opponent Position: {X:2 Y:2}
+10/13/2024 11:07:50 PM: AI Walls Remaining: 2
+10/13/2024 11:07:50 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:50 PM: AI Path Length: 11
+10/13/2024 11:07:50 PM: Opponent Path Length: 3
+10/13/2024 11:07:50 PM: Trying to place wall at: {X:2 Y:1}
+10/13/2024 11:07:50 PM: CanPlaceHorizontalWall at {X:2 Y:1}: True
+10/13/2024 11:07:50 PM: Placing Horizontal Wall at: {X:2 Y:1}
+10/13/2024 11:07:54 PM: AI Position: {X:4 Y:4}
+10/13/2024 11:07:54 PM: Opponent Position: {X:1 Y:2}
+10/13/2024 11:07:54 PM: AI Walls Remaining: 1
+10/13/2024 11:07:54 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:54 PM: AI Path Length: 11
+10/13/2024 11:07:54 PM: Opponent Path Length: 3
+10/13/2024 11:07:54 PM: Trying to place wall at: {X:1 Y:1}
+10/13/2024 11:07:54 PM: CanPlaceHorizontalWall at {X:1 Y:1}: True
+10/13/2024 11:07:54 PM: Placing Horizontal Wall at: {X:1 Y:1}
+10/13/2024 11:07:58 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:58 PM: Invalid move detected, recalculating...
+10/13/2024 11:07:58 PM: AI Position: {X:4 Y:4}
+10/13/2024 11:07:58 PM: Opponent Position: {X:1 Y:2}
+10/13/2024 11:07:58 PM: AI Walls Remaining: 1
+10/13/2024 11:07:58 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:58 PM: AI Path Length: 11
+10/13/2024 11:07:58 PM: Opponent Path Length: 3
+10/13/2024 11:07:58 PM: Trying to place wall at: {X:1 Y:1}
+10/13/2024 11:07:58 PM: CanPlaceHorizontalWall at {X:1 Y:1}: True
+10/13/2024 11:07:58 PM: Placing Horizontal Wall at: {X:1 Y:1}
+10/13/2024 11:07:58 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:07:58 PM: Fallback: Moving along path to {X:3 Y:4}
+10/13/2024 11:07:59 PM: AI Position: {X:3 Y:4}
+10/13/2024 11:07:59 PM: Opponent Position: {X:1 Y:1}
+10/13/2024 11:07:59 PM: AI Walls Remaining: 1
+10/13/2024 11:07:59 PM: Opponent Walls Remaining: 2
+10/13/2024 11:07:59 PM: AI Path Length: 9
+10/13/2024 11:07:59 PM: Opponent Path Length: 2
+10/13/2024 11:07:59 PM: Trying to place wall at: {X:1 Y:0}
+10/13/2024 11:07:59 PM: CanPlaceHorizontalWall at {X:1 Y:0}: True
+10/13/2024 11:07:59 PM: Placing Horizontal Wall at: {X:1 Y:0}
+10/13/2024 11:08:02 PM: AI Position: {X:3 Y:4}
+10/13/2024 11:08:02 PM: Opponent Position: {X:0 Y:1}
+10/13/2024 11:08:02 PM: AI Walls Remaining: 0
+10/13/2024 11:08:02 PM: Opponent Walls Remaining: 2
+10/13/2024 11:08:02 PM: AI Path Length: 9
+10/13/2024 11:08:02 PM: Opponent Path Length: 2
+10/13/2024 11:08:02 PM: Moving to: {X:3 Y:5}
+10/13/2024 11:08:02 PM: Moving to: {X:3 Y:5}
+10/13/2024 11:14:54 PM: AI Position: {X:4 Y:0}
+10/13/2024 11:14:54 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:14:54 PM: AI Walls Remaining: 10
+10/13/2024 11:14:54 PM: Opponent Walls Remaining: 10
+10/13/2024 11:14:54 PM: AI Path Length: 9
+10/13/2024 11:14:54 PM: Opponent Path Length: 9
+10/13/2024 11:14:54 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:14:54 PM: Prioritizing movement: Moving to {X:4 Y:1}
+10/13/2024 11:14:56 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:14:56 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:14:56 PM: AI Walls Remaining: 10
+10/13/2024 11:14:56 PM: Opponent Walls Remaining: 10
+10/13/2024 11:14:56 PM: AI Path Length: 8
+10/13/2024 11:14:56 PM: Opponent Path Length: 8
+10/13/2024 11:14:56 PM: Moving to: {X:4 Y:2}
+10/13/2024 11:14:56 PM: Prioritizing movement: Moving to {X:4 Y:2}
+10/13/2024 11:14:59 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:14:59 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:14:59 PM: AI Walls Remaining: 10
+10/13/2024 11:14:59 PM: Opponent Walls Remaining: 9
+10/13/2024 11:14:59 PM: AI Path Length: 9
+10/13/2024 11:14:59 PM: Opponent Path Length: 10
+10/13/2024 11:14:59 PM: Moving to: {X:3 Y:2}
+10/13/2024 11:14:59 PM: Prioritizing movement: Moving to {X:3 Y:2}
+10/13/2024 11:15:00 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:15:00 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:15:00 PM: AI Walls Remaining: 10
+10/13/2024 11:15:00 PM: Opponent Walls Remaining: 8
+10/13/2024 11:15:00 PM: AI Path Length: 11
+10/13/2024 11:15:00 PM: Opponent Path Length: 12
+10/13/2024 11:15:00 PM: Moving to: {X:2 Y:2}
+10/13/2024 11:15:00 PM: Prioritizing movement: Moving to {X:2 Y:2}
+10/13/2024 11:15:04 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:15:04 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:15:04 PM: AI Walls Remaining: 10
+10/13/2024 11:15:04 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:04 PM: AI Path Length: 15
+10/13/2024 11:15:04 PM: Opponent Path Length: 12
+10/13/2024 11:15:04 PM: Trying to place wall at: {X:5 Y:7}
+10/13/2024 11:15:04 PM: CanPlaceHorizontalWall at {X:5 Y:7}: False, Within Bounds: False
+10/13/2024 11:15:04 PM: CanPlaceVerticalWall at {X:5 Y:7}: True, Within Bounds: True
+10/13/2024 11:15:04 PM: Placing Vertical Wall at: {X:5 Y:7}
+10/13/2024 11:15:08 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:15:08 PM: Opponent Position: {X:5 Y:7}
+10/13/2024 11:15:08 PM: AI Walls Remaining: 9
+10/13/2024 11:15:08 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:08 PM: AI Path Length: 15
+10/13/2024 11:15:08 PM: Opponent Path Length: 10
+10/13/2024 11:15:08 PM: Trying to place wall at: {X:5 Y:6}
+10/13/2024 11:15:08 PM: CanPlaceHorizontalWall at {X:5 Y:6}: True, Within Bounds: True
+10/13/2024 11:15:08 PM: Placing Horizontal Wall at: {X:5 Y:6}
+10/13/2024 11:15:10 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:15:10 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:15:10 PM: AI Walls Remaining: 8
+10/13/2024 11:15:10 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:10 PM: AI Path Length: 15
+10/13/2024 11:15:10 PM: Opponent Path Length: 12
+10/13/2024 11:15:10 PM: Trying to place wall at: {X:4 Y:6}
+10/13/2024 11:15:10 PM: CanPlaceHorizontalWall at {X:4 Y:6}: True, Within Bounds: True
+10/13/2024 11:15:10 PM: Placing Horizontal Wall at: {X:4 Y:6}
+10/13/2024 11:15:13 PM: Invalid move detected, recalculating...
+10/13/2024 11:15:13 PM: Invalid move detected, recalculating...
+10/13/2024 11:15:13 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:15:13 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:15:13 PM: AI Walls Remaining: 8
+10/13/2024 11:15:13 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:13 PM: AI Path Length: 15
+10/13/2024 11:15:13 PM: Opponent Path Length: 12
+10/13/2024 11:15:13 PM: Trying to place wall at: {X:4 Y:6}
+10/13/2024 11:15:13 PM: CanPlaceHorizontalWall at {X:4 Y:6}: True, Within Bounds: True
+10/13/2024 11:15:13 PM: Placing Horizontal Wall at: {X:4 Y:6}
+10/13/2024 11:15:13 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:15:13 PM: Fallback: Moving along path to {X:3 Y:2}
+10/13/2024 11:15:15 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:15:15 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:15:15 PM: AI Walls Remaining: 8
+10/13/2024 11:15:15 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:15 PM: AI Path Length: 13
+10/13/2024 11:15:15 PM: Opponent Path Length: 11
+10/13/2024 11:15:15 PM: Trying to place wall at: {X:5 Y:6}
+10/13/2024 11:15:15 PM: CanPlaceHorizontalWall at {X:5 Y:6}: False, Within Bounds: True
+10/13/2024 11:15:15 PM: CanPlaceVerticalWall at {X:5 Y:6}: True, Within Bounds: True
+10/13/2024 11:15:15 PM: Placing Vertical Wall at: {X:5 Y:6}
+10/13/2024 11:15:19 PM: Invalid move detected, recalculating...
+10/13/2024 11:15:19 PM: Invalid move detected, recalculating...
+10/13/2024 11:15:19 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:15:19 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:15:19 PM: AI Walls Remaining: 8
+10/13/2024 11:15:19 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:19 PM: AI Path Length: 13
+10/13/2024 11:15:19 PM: Opponent Path Length: 11
+10/13/2024 11:15:19 PM: Trying to place wall at: {X:5 Y:6}
+10/13/2024 11:15:19 PM: CanPlaceHorizontalWall at {X:5 Y:6}: False, Within Bounds: True
+10/13/2024 11:15:19 PM: CanPlaceVerticalWall at {X:5 Y:6}: True, Within Bounds: True
+10/13/2024 11:15:19 PM: Placing Vertical Wall at: {X:5 Y:6}
+10/13/2024 11:15:19 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:15:19 PM: Fallback: Moving along path to {X:4 Y:2}
+10/13/2024 11:15:20 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:15:20 PM: Opponent Position: {X:5 Y:6}
+10/13/2024 11:15:20 PM: AI Walls Remaining: 8
+10/13/2024 11:15:20 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:20 PM: AI Path Length: 11
+10/13/2024 11:15:20 PM: Opponent Path Length: 9
+10/13/2024 11:15:20 PM: Trying to place wall at: {X:6 Y:6}
+10/13/2024 11:15:20 PM: CanPlaceHorizontalWall at {X:6 Y:6}: False, Within Bounds: True
+10/13/2024 11:15:20 PM: CanPlaceVerticalWall at {X:6 Y:6}: True, Within Bounds: True
+10/13/2024 11:15:20 PM: Placing Vertical Wall at: {X:6 Y:6}
+10/13/2024 11:15:28 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:15:28 PM: Opponent Position: {X:5 Y:5}
+10/13/2024 11:15:28 PM: AI Walls Remaining: 7
+10/13/2024 11:15:28 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:28 PM: AI Path Length: 11
+10/13/2024 11:15:28 PM: Opponent Path Length: 8
+10/13/2024 11:15:28 PM: Trying to place wall at: {X:6 Y:5}
+10/13/2024 11:15:28 PM: CanPlaceHorizontalWall at {X:6 Y:5}: True, Within Bounds: True
+10/13/2024 11:15:28 PM: Placing Horizontal Wall at: {X:6 Y:5}
+10/13/2024 11:15:31 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:15:31 PM: Opponent Position: {X:6 Y:5}
+10/13/2024 11:15:31 PM: AI Walls Remaining: 6
+10/13/2024 11:15:31 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:31 PM: AI Path Length: 11
+10/13/2024 11:15:31 PM: Opponent Path Length: 6
+10/13/2024 11:15:31 PM: Trying to place wall at: {X:6 Y:4}
+10/13/2024 11:15:31 PM: CanPlaceHorizontalWall at {X:6 Y:4}: True, Within Bounds: True
+10/13/2024 11:15:31 PM: Placing Horizontal Wall at: {X:6 Y:4}
+10/13/2024 11:15:35 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:15:35 PM: Opponent Position: {X:7 Y:5}
+10/13/2024 11:15:35 PM: AI Walls Remaining: 5
+10/13/2024 11:15:35 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:35 PM: AI Path Length: 11
+10/13/2024 11:15:35 PM: Opponent Path Length: 8
+10/13/2024 11:15:35 PM: Trying to place wall at: {X:8 Y:5}
+10/13/2024 11:15:35 PM: CanPlaceHorizontalWall at {X:8 Y:5}: False, Within Bounds: False
+10/13/2024 11:15:35 PM: CanPlaceVerticalWall at {X:8 Y:5}: False, Within Bounds: False
+10/13/2024 11:15:35 PM: Wall placement failed at: {X:8 Y:5} - Moving instead.
+10/13/2024 11:15:35 PM: Moving to: {X:5 Y:2}
+10/13/2024 11:15:37 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:15:37 PM: Opponent Position: {X:8 Y:5}
+10/13/2024 11:15:37 PM: AI Walls Remaining: 5
+10/13/2024 11:15:37 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:37 PM: AI Path Length: 11
+10/13/2024 11:15:37 PM: Opponent Path Length: 6
+10/13/2024 11:15:37 PM: Trying to place wall at: {X:8 Y:4}
+10/13/2024 11:15:37 PM: CanPlaceHorizontalWall at {X:8 Y:4}: False, Within Bounds: False
+10/13/2024 11:15:37 PM: CanPlaceVerticalWall at {X:8 Y:4}: False, Within Bounds: False
+10/13/2024 11:15:37 PM: Wall placement failed at: {X:8 Y:4} - Moving instead.
+10/13/2024 11:15:37 PM: Moving to: {X:6 Y:2}
+10/13/2024 11:15:39 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:15:39 PM: Opponent Position: {X:8 Y:4}
+10/13/2024 11:15:39 PM: AI Walls Remaining: 5
+10/13/2024 11:15:39 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:39 PM: AI Path Length: 11
+10/13/2024 11:15:39 PM: Opponent Path Length: 5
+10/13/2024 11:15:39 PM: Trying to place wall at: {X:8 Y:3}
+10/13/2024 11:15:39 PM: CanPlaceHorizontalWall at {X:8 Y:3}: False, Within Bounds: False
+10/13/2024 11:15:39 PM: CanPlaceVerticalWall at {X:8 Y:3}: False, Within Bounds: False
+10/13/2024 11:15:39 PM: Wall placement failed at: {X:8 Y:3} - Moving instead.
+10/13/2024 11:15:39 PM: Moving to: {X:7 Y:2}
+10/13/2024 11:15:40 PM: AI Position: {X:7 Y:2}
+10/13/2024 11:15:40 PM: Opponent Position: {X:8 Y:3}
+10/13/2024 11:15:40 PM: AI Walls Remaining: 5
+10/13/2024 11:15:40 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:40 PM: AI Path Length: 9
+10/13/2024 11:15:40 PM: Opponent Path Length: 4
+10/13/2024 11:15:40 PM: Trying to place wall at: {X:8 Y:2}
+10/13/2024 11:15:40 PM: CanPlaceHorizontalWall at {X:8 Y:2}: False, Within Bounds: False
+10/13/2024 11:15:40 PM: CanPlaceVerticalWall at {X:8 Y:2}: False, Within Bounds: False
+10/13/2024 11:15:40 PM: Wall placement failed at: {X:8 Y:2} - Moving instead.
+10/13/2024 11:15:40 PM: Moving to: {X:8 Y:2}
+10/13/2024 11:15:43 PM: AI Position: {X:8 Y:2}
+10/13/2024 11:15:43 PM: Opponent Position: {X:8 Y:2}
+10/13/2024 11:15:43 PM: AI Walls Remaining: 5
+10/13/2024 11:15:43 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:43 PM: AI Path Length: 7
+10/13/2024 11:15:43 PM: Opponent Path Length: 3
+10/13/2024 11:15:43 PM: Trying to place wall at: {X:8 Y:1}
+10/13/2024 11:15:43 PM: CanPlaceHorizontalWall at {X:8 Y:1}: False, Within Bounds: False
+10/13/2024 11:15:43 PM: CanPlaceVerticalWall at {X:8 Y:1}: False, Within Bounds: False
+10/13/2024 11:15:43 PM: Wall placement failed at: {X:8 Y:1} - Moving instead.
+10/13/2024 11:15:43 PM: Moving to: {X:8 Y:3}
+10/13/2024 11:15:44 PM: AI Position: {X:8 Y:3}
+10/13/2024 11:15:44 PM: Opponent Position: {X:8 Y:1}
+10/13/2024 11:15:44 PM: AI Walls Remaining: 5
+10/13/2024 11:15:44 PM: Opponent Walls Remaining: 7
+10/13/2024 11:15:44 PM: AI Path Length: 6
+10/13/2024 11:15:44 PM: Opponent Path Length: 2
+10/13/2024 11:15:44 PM: Trying to place wall at: {X:8 Y:0}
+10/13/2024 11:15:44 PM: CanPlaceHorizontalWall at {X:8 Y:0}: False, Within Bounds: False
+10/13/2024 11:15:44 PM: CanPlaceVerticalWall at {X:8 Y:0}: False, Within Bounds: False
+10/13/2024 11:15:44 PM: Wall placement failed at: {X:8 Y:0} - Moving instead.
+10/13/2024 11:15:44 PM: Moving to: {X:8 Y:4}
+10/13/2024 11:16:34 PM: AI Position: {X:4 Y:0}
+10/13/2024 11:16:34 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:16:34 PM: AI Walls Remaining: 10
+10/13/2024 11:16:34 PM: Opponent Walls Remaining: 10
+10/13/2024 11:16:34 PM: AI Path Length: 9
+10/13/2024 11:16:34 PM: Opponent Path Length: 9
+10/13/2024 11:16:34 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:16:34 PM: Prioritizing movement: Moving to {X:4 Y:1}
+10/13/2024 11:16:38 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:16:38 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:16:38 PM: AI Walls Remaining: 10
+10/13/2024 11:16:38 PM: Opponent Walls Remaining: 9
+10/13/2024 11:16:38 PM: AI Path Length: 10
+10/13/2024 11:16:38 PM: Opponent Path Length: 11
+10/13/2024 11:16:38 PM: Moving to: {X:3 Y:1}
+10/13/2024 11:16:38 PM: Prioritizing movement: Moving to {X:3 Y:1}
+10/13/2024 11:16:43 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:16:43 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:16:43 PM: AI Walls Remaining: 10
+10/13/2024 11:16:43 PM: Opponent Walls Remaining: 8
+10/13/2024 11:16:43 PM: AI Path Length: 12
+10/13/2024 11:16:43 PM: Opponent Path Length: 13
+10/13/2024 11:16:43 PM: Moving to: {X:2 Y:1}
+10/13/2024 11:16:43 PM: Prioritizing movement: Moving to {X:2 Y:1}
+10/13/2024 11:16:46 PM: AI Position: {X:2 Y:1}
+10/13/2024 11:16:46 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:16:46 PM: AI Walls Remaining: 10
+10/13/2024 11:16:46 PM: Opponent Walls Remaining: 7
+10/13/2024 11:16:46 PM: AI Path Length: 16
+10/13/2024 11:16:46 PM: Opponent Path Length: 13
+10/13/2024 11:16:46 PM: Trying to place wall at: {X:5 Y:8}
+10/13/2024 11:16:46 PM: Horizontal wall cannot be placed at {X:5 Y:8}: Wall would extend off the board.
+10/13/2024 11:16:46 PM: CanPlaceVerticalWall at {X:5 Y:8}: True
+10/13/2024 11:16:46 PM: Placing Vertical Wall at: {X:5 Y:8}
+10/13/2024 11:16:49 PM: Invalid move detected, recalculating...
+10/13/2024 11:16:49 PM: Invalid move detected, recalculating...
+10/13/2024 11:16:49 PM: AI Position: {X:2 Y:1}
+10/13/2024 11:16:49 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:16:49 PM: AI Walls Remaining: 10
+10/13/2024 11:16:49 PM: Opponent Walls Remaining: 7
+10/13/2024 11:16:49 PM: AI Path Length: 16
+10/13/2024 11:16:49 PM: Opponent Path Length: 13
+10/13/2024 11:16:49 PM: Trying to place wall at: {X:5 Y:8}
+10/13/2024 11:16:49 PM: Horizontal wall cannot be placed at {X:5 Y:8}: Wall would extend off the board.
+10/13/2024 11:16:49 PM: CanPlaceVerticalWall at {X:5 Y:8}: True
+10/13/2024 11:16:49 PM: Placing Vertical Wall at: {X:5 Y:8}
+10/13/2024 11:16:49 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:16:49 PM: Fallback: Moving along path to {X:3 Y:1}
+10/13/2024 11:16:51 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:16:51 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:16:51 PM: AI Walls Remaining: 10
+10/13/2024 11:16:51 PM: Opponent Walls Remaining: 7
+10/13/2024 11:16:51 PM: AI Path Length: 14
+10/13/2024 11:16:51 PM: Opponent Path Length: 12
+10/13/2024 11:16:51 PM: Trying to place wall at: {X:5 Y:7}
+10/13/2024 11:16:51 PM: CanPlaceHorizontalWall at {X:5 Y:7}: True
+10/13/2024 11:16:51 PM: Placing Horizontal Wall at: {X:5 Y:7}
+10/13/2024 11:16:58 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:16:58 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:16:58 PM: AI Walls Remaining: 9
+10/13/2024 11:16:58 PM: Opponent Walls Remaining: 7
+10/13/2024 11:16:58 PM: AI Path Length: 14
+10/13/2024 11:16:58 PM: Opponent Path Length: 11
+10/13/2024 11:16:58 PM: Trying to place wall at: {X:5 Y:6}
+10/13/2024 11:16:58 PM: CanPlaceHorizontalWall at {X:5 Y:6}: True
+10/13/2024 11:16:58 PM: Placing Horizontal Wall at: {X:5 Y:6}
+10/13/2024 11:17:00 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:17:00 PM: Opponent Position: {X:4 Y:5}
+10/13/2024 11:17:00 PM: AI Walls Remaining: 8
+10/13/2024 11:17:00 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:00 PM: AI Path Length: 14
+10/13/2024 11:17:00 PM: Opponent Path Length: 10
+10/13/2024 11:17:00 PM: Trying to place wall at: {X:5 Y:5}
+10/13/2024 11:17:00 PM: CanPlaceHorizontalWall at {X:5 Y:5}: True
+10/13/2024 11:17:00 PM: Placing Horizontal Wall at: {X:5 Y:5}
+10/13/2024 11:17:01 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:17:01 PM: Opponent Position: {X:4 Y:4}
+10/13/2024 11:17:01 PM: AI Walls Remaining: 7
+10/13/2024 11:17:01 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:01 PM: AI Path Length: 14
+10/13/2024 11:17:01 PM: Opponent Path Length: 9
+10/13/2024 11:17:01 PM: Trying to place wall at: {X:5 Y:4}
+10/13/2024 11:17:01 PM: CanPlaceHorizontalWall at {X:5 Y:4}: True
+10/13/2024 11:17:01 PM: Placing Horizontal Wall at: {X:5 Y:4}
+10/13/2024 11:17:04 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:17:04 PM: Opponent Position: {X:4 Y:3}
+10/13/2024 11:17:04 PM: AI Walls Remaining: 6
+10/13/2024 11:17:04 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:04 PM: AI Path Length: 14
+10/13/2024 11:17:04 PM: Opponent Path Length: 8
+10/13/2024 11:17:04 PM: Trying to place wall at: {X:5 Y:3}
+10/13/2024 11:17:04 PM: CanPlaceHorizontalWall at {X:5 Y:3}: True
+10/13/2024 11:17:04 PM: Placing Horizontal Wall at: {X:5 Y:3}
+10/13/2024 11:17:05 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:17:05 PM: Opponent Position: {X:5 Y:3}
+10/13/2024 11:17:05 PM: AI Walls Remaining: 5
+10/13/2024 11:17:05 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:05 PM: AI Path Length: 14
+10/13/2024 11:17:05 PM: Opponent Path Length: 6
+10/13/2024 11:17:05 PM: Trying to place wall at: {X:6 Y:3}
+10/13/2024 11:17:05 PM: CanPlaceHorizontalWall at {X:6 Y:3}: False
+10/13/2024 11:17:05 PM: CanPlaceVerticalWall at {X:6 Y:3}: True
+10/13/2024 11:17:05 PM: Placing Vertical Wall at: {X:6 Y:3}
+10/13/2024 11:17:07 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:17:07 PM: Opponent Position: {X:6 Y:3}
+10/13/2024 11:17:07 PM: AI Walls Remaining: 4
+10/13/2024 11:17:07 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:07 PM: AI Path Length: 14
+10/13/2024 11:17:07 PM: Opponent Path Length: 4
+10/13/2024 11:17:07 PM: Trying to place wall at: {X:6 Y:2}
+10/13/2024 11:17:07 PM: CanPlaceHorizontalWall at {X:6 Y:2}: True
+10/13/2024 11:17:07 PM: Placing Horizontal Wall at: {X:6 Y:2}
+10/13/2024 11:17:09 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:17:09 PM: Opponent Position: {X:5 Y:3}
+10/13/2024 11:17:09 PM: AI Walls Remaining: 3
+10/13/2024 11:17:09 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:09 PM: AI Path Length: 14
+10/13/2024 11:17:09 PM: Opponent Path Length: 6
+10/13/2024 11:17:09 PM: Trying to place wall at: {X:5 Y:2}
+10/13/2024 11:17:09 PM: CanPlaceHorizontalWall at {X:5 Y:2}: True
+10/13/2024 11:17:09 PM: Placing Horizontal Wall at: {X:5 Y:2}
+10/13/2024 11:17:12 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:12 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:12 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:17:12 PM: Opponent Position: {X:5 Y:3}
+10/13/2024 11:17:12 PM: AI Walls Remaining: 3
+10/13/2024 11:17:12 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:12 PM: AI Path Length: 14
+10/13/2024 11:17:12 PM: Opponent Path Length: 6
+10/13/2024 11:17:12 PM: Trying to place wall at: {X:5 Y:2}
+10/13/2024 11:17:12 PM: CanPlaceHorizontalWall at {X:5 Y:2}: True
+10/13/2024 11:17:12 PM: Placing Horizontal Wall at: {X:5 Y:2}
+10/13/2024 11:17:12 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:17:12 PM: Fallback: Moving along path to {X:4 Y:1}
+10/13/2024 11:17:14 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:17:14 PM: Opponent Position: {X:5 Y:2}
+10/13/2024 11:17:14 PM: AI Walls Remaining: 3
+10/13/2024 11:17:14 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:14 PM: AI Path Length: 12
+10/13/2024 11:17:14 PM: Opponent Path Length: 5
+10/13/2024 11:17:14 PM: Trying to place wall at: {X:6 Y:2}
+10/13/2024 11:17:14 PM: CanPlaceHorizontalWall at {X:6 Y:2}: False
+10/13/2024 11:17:14 PM: CanPlaceVerticalWall at {X:6 Y:2}: True
+10/13/2024 11:17:14 PM: Placing Vertical Wall at: {X:6 Y:2}
+10/13/2024 11:17:18 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:18 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:18 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:17:18 PM: Opponent Position: {X:5 Y:2}
+10/13/2024 11:17:18 PM: AI Walls Remaining: 3
+10/13/2024 11:17:18 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:18 PM: AI Path Length: 12
+10/13/2024 11:17:18 PM: Opponent Path Length: 5
+10/13/2024 11:17:18 PM: Trying to place wall at: {X:6 Y:2}
+10/13/2024 11:17:18 PM: CanPlaceHorizontalWall at {X:6 Y:2}: False
+10/13/2024 11:17:18 PM: CanPlaceVerticalWall at {X:6 Y:2}: True
+10/13/2024 11:17:18 PM: Placing Vertical Wall at: {X:6 Y:2}
+10/13/2024 11:17:18 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:17:18 PM: Fallback: Moving along path to {X:5 Y:1}
+10/13/2024 11:17:20 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:17:20 PM: Opponent Position: {X:6 Y:2}
+10/13/2024 11:17:20 PM: AI Walls Remaining: 3
+10/13/2024 11:17:20 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:20 PM: AI Path Length: 12
+10/13/2024 11:17:20 PM: Opponent Path Length: 3
+10/13/2024 11:17:20 PM: Trying to place wall at: {X:6 Y:1}
+10/13/2024 11:17:20 PM: CanPlaceHorizontalWall at {X:6 Y:1}: True
+10/13/2024 11:17:20 PM: Placing Horizontal Wall at: {X:6 Y:1}
+10/13/2024 11:17:22 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:17:22 PM: Opponent Position: {X:7 Y:2}
+10/13/2024 11:17:22 PM: AI Walls Remaining: 2
+10/13/2024 11:17:22 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:22 PM: AI Path Length: 14
+10/13/2024 11:17:22 PM: Opponent Path Length: 5
+10/13/2024 11:17:22 PM: Trying to place wall at: {X:8 Y:2}
+10/13/2024 11:17:22 PM: CanPlaceHorizontalWall at {X:8 Y:2}: True
+10/13/2024 11:17:22 PM: Placing Horizontal Wall at: {X:8 Y:2}
+10/13/2024 11:17:26 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:26 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:26 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:17:26 PM: Opponent Position: {X:7 Y:2}
+10/13/2024 11:17:26 PM: AI Walls Remaining: 2
+10/13/2024 11:17:26 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:26 PM: AI Path Length: 14
+10/13/2024 11:17:26 PM: Opponent Path Length: 5
+10/13/2024 11:17:26 PM: Trying to place wall at: {X:8 Y:2}
+10/13/2024 11:17:26 PM: CanPlaceHorizontalWall at {X:8 Y:2}: True
+10/13/2024 11:17:26 PM: Placing Horizontal Wall at: {X:8 Y:2}
+10/13/2024 11:17:26 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:17:26 PM: Fallback: Moving along path to {X:6 Y:1}
+10/13/2024 11:17:27 PM: AI Position: {X:6 Y:1}
+10/13/2024 11:17:27 PM: Opponent Position: {X:8 Y:2}
+10/13/2024 11:17:27 PM: AI Walls Remaining: 2
+10/13/2024 11:17:27 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:27 PM: AI Path Length: 12
+10/13/2024 11:17:27 PM: Opponent Path Length: 3
+10/13/2024 11:17:27 PM: Trying to place wall at: {X:8 Y:1}
+10/13/2024 11:17:27 PM: CanPlaceHorizontalWall at {X:8 Y:1}: True
+10/13/2024 11:17:27 PM: Placing Horizontal Wall at: {X:8 Y:1}
+10/13/2024 11:17:31 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:31 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:31 PM: AI Position: {X:6 Y:1}
+10/13/2024 11:17:31 PM: Opponent Position: {X:8 Y:2}
+10/13/2024 11:17:31 PM: AI Walls Remaining: 2
+10/13/2024 11:17:31 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:31 PM: AI Path Length: 12
+10/13/2024 11:17:31 PM: Opponent Path Length: 3
+10/13/2024 11:17:31 PM: Trying to place wall at: {X:8 Y:1}
+10/13/2024 11:17:31 PM: CanPlaceHorizontalWall at {X:8 Y:1}: True
+10/13/2024 11:17:31 PM: Placing Horizontal Wall at: {X:8 Y:1}
+10/13/2024 11:17:31 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:17:31 PM: Fallback: Moving along path to {X:7 Y:1}
+10/13/2024 11:17:32 PM: AI Position: {X:7 Y:1}
+10/13/2024 11:17:32 PM: Opponent Position: {X:8 Y:1}
+10/13/2024 11:17:32 PM: AI Walls Remaining: 2
+10/13/2024 11:17:32 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:32 PM: AI Path Length: 10
+10/13/2024 11:17:32 PM: Opponent Path Length: 2
+10/13/2024 11:17:32 PM: Trying to place wall at: {X:8 Y:0}
+10/13/2024 11:17:32 PM: CanPlaceHorizontalWall at {X:8 Y:0}: True
+10/13/2024 11:17:32 PM: Placing Horizontal Wall at: {X:8 Y:0}
+10/13/2024 11:17:35 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:35 PM: Invalid move detected, recalculating...
+10/13/2024 11:17:35 PM: AI Position: {X:7 Y:1}
+10/13/2024 11:17:35 PM: Opponent Position: {X:8 Y:1}
+10/13/2024 11:17:35 PM: AI Walls Remaining: 2
+10/13/2024 11:17:35 PM: Opponent Walls Remaining: 7
+10/13/2024 11:17:35 PM: AI Path Length: 10
+10/13/2024 11:17:35 PM: Opponent Path Length: 2
+10/13/2024 11:17:35 PM: Trying to place wall at: {X:8 Y:0}
+10/13/2024 11:17:35 PM: CanPlaceHorizontalWall at {X:8 Y:0}: True
+10/13/2024 11:17:35 PM: Placing Horizontal Wall at: {X:8 Y:0}
+10/13/2024 11:17:35 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:17:35 PM: Fallback: Moving along path to {X:8 Y:1}
+10/13/2024 11:19:07 PM: AI Position: {X:4 Y:0}
+10/13/2024 11:19:07 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:19:07 PM: AI Walls Remaining: 10
+10/13/2024 11:19:07 PM: Opponent Walls Remaining: 10
+10/13/2024 11:19:07 PM: AI Path Length: 9
+10/13/2024 11:19:07 PM: Opponent Path Length: 9
+10/13/2024 11:19:07 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:19:07 PM: Prioritizing movement: Moving to {X:4 Y:1}
+10/13/2024 11:19:09 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:19:09 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:19:09 PM: AI Walls Remaining: 10
+10/13/2024 11:19:09 PM: Opponent Walls Remaining: 10
+10/13/2024 11:19:09 PM: AI Path Length: 8
+10/13/2024 11:19:09 PM: Opponent Path Length: 8
+10/13/2024 11:19:09 PM: Moving to: {X:4 Y:2}
+10/13/2024 11:19:09 PM: Prioritizing movement: Moving to {X:4 Y:2}
+10/13/2024 11:19:11 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:19:11 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:19:11 PM: AI Walls Remaining: 10
+10/13/2024 11:19:11 PM: Opponent Walls Remaining: 9
+10/13/2024 11:19:11 PM: AI Path Length: 9
+10/13/2024 11:19:11 PM: Opponent Path Length: 10
+10/13/2024 11:19:11 PM: Moving to: {X:5 Y:2}
+10/13/2024 11:19:11 PM: Prioritizing movement: Moving to {X:5 Y:2}
+10/13/2024 11:19:15 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:19:15 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:19:15 PM: AI Walls Remaining: 10
+10/13/2024 11:19:15 PM: Opponent Walls Remaining: 8
+10/13/2024 11:19:15 PM: AI Path Length: 11
+10/13/2024 11:19:15 PM: Opponent Path Length: 12
+10/13/2024 11:19:15 PM: Moving to: {X:6 Y:2}
+10/13/2024 11:19:15 PM: Prioritizing movement: Moving to {X:6 Y:2}
+10/13/2024 11:19:17 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:19:17 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:19:17 PM: AI Walls Remaining: 10
+10/13/2024 11:19:17 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:17 PM: AI Path Length: 15
+10/13/2024 11:19:17 PM: Opponent Path Length: 12
+10/13/2024 11:19:17 PM: Trying to place wall at: {X:3 Y:7}
+10/13/2024 11:19:17 PM: CanPlaceHorizontalWall at {X:3 Y:7}: True
+10/13/2024 11:19:17 PM: Placing Horizontal Wall at: {X:3 Y:7}
+10/13/2024 11:19:20 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:19:20 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:19:20 PM: AI Walls Remaining: 9
+10/13/2024 11:19:20 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:20 PM: AI Path Length: 15
+10/13/2024 11:19:20 PM: Opponent Path Length: 11
+10/13/2024 11:19:20 PM: Trying to place wall at: {X:3 Y:6}
+10/13/2024 11:19:20 PM: CanPlaceHorizontalWall at {X:3 Y:6}: True
+10/13/2024 11:19:20 PM: Placing Horizontal Wall at: {X:3 Y:6}
+10/13/2024 11:19:22 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:19:22 PM: Opponent Position: {X:4 Y:5}
+10/13/2024 11:19:22 PM: AI Walls Remaining: 8
+10/13/2024 11:19:22 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:22 PM: AI Path Length: 15
+10/13/2024 11:19:22 PM: Opponent Path Length: 10
+10/13/2024 11:19:22 PM: Trying to place wall at: {X:3 Y:5}
+10/13/2024 11:19:22 PM: CanPlaceHorizontalWall at {X:3 Y:5}: True
+10/13/2024 11:19:22 PM: Placing Horizontal Wall at: {X:3 Y:5}
+10/13/2024 11:19:24 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:19:24 PM: Opponent Position: {X:4 Y:4}
+10/13/2024 11:19:24 PM: AI Walls Remaining: 7
+10/13/2024 11:19:24 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:24 PM: AI Path Length: 15
+10/13/2024 11:19:24 PM: Opponent Path Length: 9
+10/13/2024 11:19:24 PM: Trying to place wall at: {X:3 Y:4}
+10/13/2024 11:19:24 PM: CanPlaceHorizontalWall at {X:3 Y:4}: True
+10/13/2024 11:19:24 PM: Placing Horizontal Wall at: {X:3 Y:4}
+10/13/2024 11:19:26 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:19:26 PM: Opponent Position: {X:4 Y:3}
+10/13/2024 11:19:26 PM: AI Walls Remaining: 6
+10/13/2024 11:19:26 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:26 PM: AI Path Length: 15
+10/13/2024 11:19:26 PM: Opponent Path Length: 8
+10/13/2024 11:19:26 PM: Trying to place wall at: {X:3 Y:3}
+10/13/2024 11:19:26 PM: CanPlaceHorizontalWall at {X:3 Y:3}: True
+10/13/2024 11:19:26 PM: Placing Horizontal Wall at: {X:3 Y:3}
+10/13/2024 11:19:28 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:19:28 PM: Opponent Position: {X:3 Y:3}
+10/13/2024 11:19:28 PM: AI Walls Remaining: 5
+10/13/2024 11:19:28 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:28 PM: AI Path Length: 15
+10/13/2024 11:19:28 PM: Opponent Path Length: 6
+10/13/2024 11:19:28 PM: Trying to place wall at: {X:2 Y:3}
+10/13/2024 11:19:28 PM: CanPlaceHorizontalWall at {X:2 Y:3}: True
+10/13/2024 11:19:28 PM: Placing Horizontal Wall at: {X:2 Y:3}
+10/13/2024 11:19:31 PM: Invalid move detected, recalculating...
+10/13/2024 11:19:31 PM: Invalid move detected, recalculating...
+10/13/2024 11:19:31 PM: AI Position: {X:6 Y:2}
+10/13/2024 11:19:31 PM: Opponent Position: {X:3 Y:3}
+10/13/2024 11:19:31 PM: AI Walls Remaining: 5
+10/13/2024 11:19:31 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:31 PM: AI Path Length: 15
+10/13/2024 11:19:31 PM: Opponent Path Length: 6
+10/13/2024 11:19:31 PM: Trying to place wall at: {X:2 Y:3}
+10/13/2024 11:19:31 PM: CanPlaceHorizontalWall at {X:2 Y:3}: True
+10/13/2024 11:19:31 PM: Placing Horizontal Wall at: {X:2 Y:3}
+10/13/2024 11:19:31 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:19:31 PM: Fallback: Moving along path to {X:5 Y:2}
+10/13/2024 11:19:33 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:19:33 PM: Opponent Position: {X:2 Y:3}
+10/13/2024 11:19:33 PM: AI Walls Remaining: 5
+10/13/2024 11:19:33 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:33 PM: AI Path Length: 13
+10/13/2024 11:19:33 PM: Opponent Path Length: 4
+10/13/2024 11:19:33 PM: Trying to place wall at: {X:2 Y:2}
+10/13/2024 11:19:33 PM: CanPlaceHorizontalWall at {X:2 Y:2}: True
+10/13/2024 11:19:33 PM: Placing Horizontal Wall at: {X:2 Y:2}
+10/13/2024 11:19:36 PM: Invalid move detected, recalculating...
+10/13/2024 11:19:36 PM: Invalid move detected, recalculating...
+10/13/2024 11:19:36 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:19:36 PM: Opponent Position: {X:2 Y:3}
+10/13/2024 11:19:36 PM: AI Walls Remaining: 5
+10/13/2024 11:19:36 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:36 PM: AI Path Length: 13
+10/13/2024 11:19:36 PM: Opponent Path Length: 4
+10/13/2024 11:19:36 PM: Trying to place wall at: {X:2 Y:2}
+10/13/2024 11:19:36 PM: CanPlaceHorizontalWall at {X:2 Y:2}: True
+10/13/2024 11:19:36 PM: Placing Horizontal Wall at: {X:2 Y:2}
+10/13/2024 11:19:36 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:19:36 PM: Fallback: Moving along path to {X:4 Y:2}
+10/13/2024 11:19:38 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:19:38 PM: Opponent Position: {X:2 Y:2}
+10/13/2024 11:19:38 PM: AI Walls Remaining: 5
+10/13/2024 11:19:38 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:38 PM: AI Path Length: 11
+10/13/2024 11:19:38 PM: Opponent Path Length: 3
+10/13/2024 11:19:38 PM: Trying to place wall at: {X:2 Y:1}
+10/13/2024 11:19:38 PM: CanPlaceHorizontalWall at {X:2 Y:1}: True
+10/13/2024 11:19:38 PM: Placing Horizontal Wall at: {X:2 Y:1}
+10/13/2024 11:19:39 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:19:39 PM: Opponent Position: {X:1 Y:2}
+10/13/2024 11:19:39 PM: AI Walls Remaining: 4
+10/13/2024 11:19:39 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:39 PM: AI Path Length: 11
+10/13/2024 11:19:39 PM: Opponent Path Length: 3
+10/13/2024 11:19:39 PM: Trying to place wall at: {X:1 Y:1}
+10/13/2024 11:19:39 PM: CanPlaceHorizontalWall at {X:1 Y:1}: True
+10/13/2024 11:19:39 PM: Placing Horizontal Wall at: {X:1 Y:1}
+10/13/2024 11:19:43 PM: Invalid move detected, recalculating...
+10/13/2024 11:19:43 PM: Invalid move detected, recalculating...
+10/13/2024 11:19:43 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:19:43 PM: Opponent Position: {X:1 Y:2}
+10/13/2024 11:19:43 PM: AI Walls Remaining: 4
+10/13/2024 11:19:43 PM: Opponent Walls Remaining: 7
+10/13/2024 11:19:43 PM: AI Path Length: 11
+10/13/2024 11:19:43 PM: Opponent Path Length: 3
+10/13/2024 11:19:43 PM: Trying to place wall at: {X:1 Y:1}
+10/13/2024 11:19:43 PM: CanPlaceHorizontalWall at {X:1 Y:1}: True
+10/13/2024 11:19:43 PM: Placing Horizontal Wall at: {X:1 Y:1}
+10/13/2024 11:19:43 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:19:43 PM: Fallback: Moving along path to {X:3 Y:2}
+10/13/2024 11:24:45 PM: AI Position: {X:4 Y:0}
+10/13/2024 11:24:45 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:24:45 PM: AI Walls Remaining: 10
+10/13/2024 11:24:45 PM: Opponent Walls Remaining: 10
+10/13/2024 11:24:45 PM: AI Path Length: 9
+10/13/2024 11:24:45 PM: Opponent Path Length: 9
+10/13/2024 11:24:45 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:24:45 PM: Prioritizing movement: Moving to {X:4 Y:1}
+10/13/2024 11:24:48 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:24:48 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:24:48 PM: AI Walls Remaining: 10
+10/13/2024 11:24:48 PM: Opponent Walls Remaining: 9
+10/13/2024 11:24:48 PM: AI Path Length: 10
+10/13/2024 11:24:48 PM: Opponent Path Length: 11
+10/13/2024 11:24:48 PM: Moving to: {X:5 Y:1}
+10/13/2024 11:24:48 PM: Prioritizing movement: Moving to {X:5 Y:1}
+10/13/2024 11:24:51 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:24:51 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:24:51 PM: AI Walls Remaining: 10
+10/13/2024 11:24:51 PM: Opponent Walls Remaining: 9
+10/13/2024 11:24:51 PM: AI Path Length: 8
+10/13/2024 11:24:51 PM: Opponent Path Length: 10
+10/13/2024 11:24:51 PM: Moving to: {X:5 Y:2}
+10/13/2024 11:24:51 PM: Prioritizing movement: Moving to {X:5 Y:2}
+10/13/2024 11:24:52 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:24:52 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:24:52 PM: AI Walls Remaining: 10
+10/13/2024 11:24:52 PM: Opponent Walls Remaining: 9
+10/13/2024 11:24:52 PM: AI Path Length: 7
+10/13/2024 11:24:52 PM: Opponent Path Length: 9
+10/13/2024 11:24:52 PM: Moving to: {X:5 Y:3}
+10/13/2024 11:24:52 PM: Prioritizing movement: Moving to {X:5 Y:3}
+10/13/2024 11:24:56 PM: AI Position: {X:5 Y:3}
+10/13/2024 11:24:56 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:24:56 PM: AI Walls Remaining: 10
+10/13/2024 11:24:56 PM: Opponent Walls Remaining: 8
+10/13/2024 11:24:56 PM: AI Path Length: 8
+10/13/2024 11:24:56 PM: Opponent Path Length: 9
+10/13/2024 11:24:56 PM: Moving to: {X:4 Y:3}
+10/13/2024 11:24:56 PM: Prioritizing movement: Moving to {X:4 Y:3}
+10/13/2024 11:24:57 PM: AI Position: {X:4 Y:3}
+10/13/2024 11:24:57 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:24:57 PM: AI Walls Remaining: 10
+10/13/2024 11:24:57 PM: Opponent Walls Remaining: 7
+10/13/2024 11:24:57 PM: AI Path Length: 10
+10/13/2024 11:24:57 PM: Opponent Path Length: 11
+10/13/2024 11:24:57 PM: Moving to: {X:3 Y:3}
+10/13/2024 11:24:57 PM: Prioritizing movement: Moving to {X:3 Y:3}
+10/13/2024 11:25:02 PM: AI Position: {X:3 Y:3}
+10/13/2024 11:25:02 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:25:02 PM: AI Walls Remaining: 10
+10/13/2024 11:25:02 PM: Opponent Walls Remaining: 6
+10/13/2024 11:25:02 PM: AI Path Length: 12
+10/13/2024 11:25:02 PM: Opponent Path Length: 13
+10/13/2024 11:25:02 PM: Moving to: {X:2 Y:3}
+10/13/2024 11:25:02 PM: Prioritizing movement: Moving to {X:2 Y:3}
+10/13/2024 11:25:04 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:25:04 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:25:04 PM: AI Walls Remaining: 10
+10/13/2024 11:25:04 PM: Opponent Walls Remaining: 5
+10/13/2024 11:25:04 PM: AI Path Length: 14
+10/13/2024 11:25:04 PM: Opponent Path Length: 13
+10/13/2024 11:25:04 PM: Trying to place wall at: {X:5 Y:6}
+10/13/2024 11:25:04 PM: CanPlaceHorizontalWall at {X:5 Y:6}: True
+10/13/2024 11:25:04 PM: Placing Horizontal Wall at: {X:5 Y:6} to block opponent's path
+10/13/2024 11:25:08 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:25:08 PM: Opponent Position: {X:5 Y:6}
+10/13/2024 11:25:08 PM: AI Walls Remaining: 9
+10/13/2024 11:25:08 PM: Opponent Walls Remaining: 5
+10/13/2024 11:25:08 PM: AI Path Length: 14
+10/13/2024 11:25:08 PM: Opponent Path Length: 11
+10/13/2024 11:25:08 PM: Trying to place wall at: {X:6 Y:6}
+10/13/2024 11:25:08 PM: CanPlaceHorizontalWall at {X:6 Y:6}: False
+10/13/2024 11:25:08 PM: CanPlaceVerticalWall at {X:6 Y:6}: True
+10/13/2024 11:25:08 PM: Placing Vertical Wall at: {X:6 Y:6} to block opponent's path
+10/13/2024 11:25:09 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:25:09 PM: Opponent Position: {X:5 Y:5}
+10/13/2024 11:25:09 PM: AI Walls Remaining: 8
+10/13/2024 11:25:09 PM: Opponent Walls Remaining: 5
+10/13/2024 11:25:09 PM: AI Path Length: 14
+10/13/2024 11:25:09 PM: Opponent Path Length: 10
+10/13/2024 11:25:09 PM: Trying to place wall at: {X:6 Y:5}
+10/13/2024 11:25:09 PM: CanPlaceHorizontalWall at {X:6 Y:5}: True
+10/13/2024 11:25:09 PM: Placing Horizontal Wall at: {X:6 Y:5} to block opponent's path
+10/13/2024 11:25:13 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:25:13 PM: Opponent Position: {X:6 Y:5}
+10/13/2024 11:25:13 PM: AI Walls Remaining: 7
+10/13/2024 11:25:13 PM: Opponent Walls Remaining: 5
+10/13/2024 11:25:13 PM: AI Path Length: 14
+10/13/2024 11:25:13 PM: Opponent Path Length: 8
+10/13/2024 11:25:13 PM: Trying to place wall at: {X:7 Y:5}
+10/13/2024 11:25:13 PM: CanPlaceHorizontalWall at {X:7 Y:5}: False
+10/13/2024 11:25:13 PM: CanPlaceVerticalWall at {X:7 Y:5}: True
+10/13/2024 11:25:13 PM: Placing Vertical Wall at: {X:7 Y:5} to block opponent's path
+10/13/2024 11:25:15 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:25:15 PM: Opponent Position: {X:6 Y:4}
+10/13/2024 11:25:15 PM: AI Walls Remaining: 6
+10/13/2024 11:25:15 PM: Opponent Walls Remaining: 5
+10/13/2024 11:25:15 PM: AI Path Length: 14
+10/13/2024 11:25:15 PM: Opponent Path Length: 7
+10/13/2024 11:25:15 PM: Trying to place wall at: {X:7 Y:4}
+10/13/2024 11:25:15 PM: CanPlaceHorizontalWall at {X:7 Y:4}: True
+10/13/2024 11:25:15 PM: Placing Horizontal Wall at: {X:7 Y:4} to block opponent's path
+10/13/2024 11:25:16 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:25:16 PM: Opponent Position: {X:7 Y:4}
+10/13/2024 11:25:16 PM: AI Walls Remaining: 5
+10/13/2024 11:25:16 PM: Opponent Walls Remaining: 5
+10/13/2024 11:25:16 PM: AI Path Length: 14
+10/13/2024 11:25:16 PM: Opponent Path Length: 5
+10/13/2024 11:25:16 PM: Trying to place wall at: {X:7 Y:3}
+10/13/2024 11:25:16 PM: CanPlaceHorizontalWall at {X:7 Y:3}: True
+10/13/2024 11:25:16 PM: Placing Horizontal Wall at: {X:7 Y:3} to block opponent's path
+10/13/2024 11:25:20 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:25:20 PM: Opponent Position: {X:6 Y:4}
+10/13/2024 11:25:20 PM: AI Walls Remaining: 4
+10/13/2024 11:25:20 PM: Opponent Walls Remaining: 5
+10/13/2024 11:25:20 PM: AI Path Length: 14
+10/13/2024 11:25:20 PM: Opponent Path Length: 17
+10/13/2024 11:25:20 PM: Moving to: {X:1 Y:3}
+10/13/2024 11:25:20 PM: Prioritizing movement: Moving to {X:1 Y:3}
+10/13/2024 11:25:23 PM: AI Position: {X:1 Y:3}
+10/13/2024 11:25:23 PM: Opponent Position: {X:5 Y:4}
+10/13/2024 11:25:23 PM: AI Walls Remaining: 4
+10/13/2024 11:25:23 PM: Opponent Walls Remaining: 5
+10/13/2024 11:25:23 PM: AI Path Length: 12
+10/13/2024 11:25:23 PM: Opponent Path Length: 15
+10/13/2024 11:25:23 PM: Moving to: {X:1 Y:2}
+10/13/2024 11:25:23 PM: Prioritizing movement: Moving to {X:1 Y:2}
+10/13/2024 11:25:37 PM: AI Position: {X:1 Y:2}
+10/13/2024 11:25:37 PM: Opponent Position: {X:5 Y:4}
+10/13/2024 11:25:37 PM: AI Walls Remaining: 4
+10/13/2024 11:25:37 PM: Opponent Walls Remaining: 4
+10/13/2024 11:25:37 PM: AI Path Length: 19
+10/13/2024 11:25:37 PM: Opponent Path Length: 15
+10/13/2024 11:25:37 PM: Trying to place wall at: {X:4 Y:4}
+10/13/2024 11:25:37 PM: CanPlaceHorizontalWall at {X:4 Y:4}: True
+10/13/2024 11:25:37 PM: Placing Horizontal Wall at: {X:4 Y:4} to block opponent's path
+10/13/2024 11:25:43 PM: AI Position: {X:1 Y:2}
+10/13/2024 11:25:43 PM: Opponent Position: {X:4 Y:4}
+10/13/2024 11:25:43 PM: AI Walls Remaining: 3
+10/13/2024 11:25:43 PM: Opponent Walls Remaining: 4
+10/13/2024 11:25:43 PM: AI Path Length: 19
+10/13/2024 11:25:43 PM: Opponent Path Length: 13
+10/13/2024 11:25:43 PM: Trying to place wall at: {X:3 Y:4}
+10/13/2024 11:25:43 PM: CanPlaceHorizontalWall at {X:3 Y:4}: True
+10/13/2024 11:25:43 PM: Placing Horizontal Wall at: {X:3 Y:4} to block opponent's path
+10/13/2024 11:25:46 PM: Invalid move detected, recalculating...
+10/13/2024 11:25:46 PM: Invalid move detected, recalculating...
+10/13/2024 11:25:46 PM: AI Position: {X:1 Y:2}
+10/13/2024 11:25:46 PM: Opponent Position: {X:4 Y:4}
+10/13/2024 11:25:46 PM: AI Walls Remaining: 3
+10/13/2024 11:25:46 PM: Opponent Walls Remaining: 4
+10/13/2024 11:25:46 PM: AI Path Length: 19
+10/13/2024 11:25:46 PM: Opponent Path Length: 13
+10/13/2024 11:25:46 PM: Trying to place wall at: {X:3 Y:4}
+10/13/2024 11:25:46 PM: CanPlaceHorizontalWall at {X:3 Y:4}: True
+10/13/2024 11:25:46 PM: Placing Horizontal Wall at: {X:3 Y:4} to block opponent's path
+10/13/2024 11:25:46 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:25:46 PM: Fallback: Moving along path to {X:2 Y:2}
+10/13/2024 11:25:51 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:25:51 PM: Opponent Position: {X:3 Y:4}
+10/13/2024 11:25:51 PM: AI Walls Remaining: 3
+10/13/2024 11:25:51 PM: Opponent Walls Remaining: 4
+10/13/2024 11:25:51 PM: AI Path Length: 19
+10/13/2024 11:25:51 PM: Opponent Path Length: 11
+10/13/2024 11:25:51 PM: Trying to place wall at: {X:2 Y:4}
+10/13/2024 11:25:51 PM: CanPlaceHorizontalWall at {X:2 Y:4}: True
+10/13/2024 11:25:51 PM: Placing Horizontal Wall at: {X:2 Y:4} to block opponent's path
+10/13/2024 11:26:02 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:26:02 PM: Opponent Position: {X:2 Y:4}
+10/13/2024 11:26:02 PM: AI Walls Remaining: 2
+10/13/2024 11:26:02 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:02 PM: AI Path Length: 19
+10/13/2024 11:26:02 PM: Opponent Path Length: 9
+10/13/2024 11:26:02 PM: Trying to place wall at: {X:1 Y:4}
+10/13/2024 11:26:02 PM: CanPlaceHorizontalWall at {X:1 Y:4}: True
+10/13/2024 11:26:02 PM: Placing Horizontal Wall at: {X:1 Y:4} to block opponent's path
+10/13/2024 11:26:05 PM: Invalid move detected, recalculating...
+10/13/2024 11:26:05 PM: Invalid move detected, recalculating...
+10/13/2024 11:26:05 PM: AI Position: {X:2 Y:2}
+10/13/2024 11:26:05 PM: Opponent Position: {X:2 Y:4}
+10/13/2024 11:26:05 PM: AI Walls Remaining: 2
+10/13/2024 11:26:05 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:05 PM: AI Path Length: 19
+10/13/2024 11:26:05 PM: Opponent Path Length: 9
+10/13/2024 11:26:05 PM: Trying to place wall at: {X:1 Y:4}
+10/13/2024 11:26:05 PM: CanPlaceHorizontalWall at {X:1 Y:4}: True
+10/13/2024 11:26:05 PM: Placing Horizontal Wall at: {X:1 Y:4} to block opponent's path
+10/13/2024 11:26:05 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:26:05 PM: Fallback: Moving along path to {X:3 Y:2}
+10/13/2024 11:26:08 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:26:08 PM: Opponent Position: {X:1 Y:4}
+10/13/2024 11:26:08 PM: AI Walls Remaining: 2
+10/13/2024 11:26:08 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:08 PM: AI Path Length: 19
+10/13/2024 11:26:08 PM: Opponent Path Length: 7
+10/13/2024 11:26:08 PM: Trying to place wall at: {X:0 Y:4}
+10/13/2024 11:26:08 PM: CanPlaceHorizontalWall at {X:0 Y:4}: True
+10/13/2024 11:26:08 PM: Placing Horizontal Wall at: {X:0 Y:4} to block opponent's path
+10/13/2024 11:26:15 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:26:15 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:26:15 PM: AI Walls Remaining: 1
+10/13/2024 11:26:15 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:15 PM: AI Path Length: 25
+10/13/2024 11:26:15 PM: Opponent Path Length: 5
+10/13/2024 11:26:15 PM: Trying to place wall at: {X:0 Y:3}
+10/13/2024 11:26:15 PM: CanPlaceHorizontalWall at {X:0 Y:3}: True
+10/13/2024 11:26:15 PM: Placing Horizontal Wall at: {X:0 Y:3} to block opponent's path
+10/13/2024 11:26:19 PM: Invalid move detected, recalculating...
+10/13/2024 11:26:19 PM: Invalid move detected, recalculating...
+10/13/2024 11:26:19 PM: AI Position: {X:3 Y:2}
+10/13/2024 11:26:19 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:26:19 PM: AI Walls Remaining: 1
+10/13/2024 11:26:19 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:19 PM: AI Path Length: 25
+10/13/2024 11:26:19 PM: Opponent Path Length: 5
+10/13/2024 11:26:19 PM: Trying to place wall at: {X:0 Y:3}
+10/13/2024 11:26:19 PM: CanPlaceHorizontalWall at {X:0 Y:3}: True
+10/13/2024 11:26:19 PM: Placing Horizontal Wall at: {X:0 Y:3} to block opponent's path
+10/13/2024 11:26:19 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:26:19 PM: Fallback: Moving along path to {X:4 Y:2}
+10/13/2024 11:26:21 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:26:21 PM: Opponent Position: {X:0 Y:3}
+10/13/2024 11:26:21 PM: AI Walls Remaining: 1
+10/13/2024 11:26:21 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:21 PM: AI Path Length: 23
+10/13/2024 11:26:21 PM: Opponent Path Length: 4
+10/13/2024 11:26:21 PM: Trying to place wall at: {X:0 Y:2}
+10/13/2024 11:26:21 PM: CanPlaceHorizontalWall at {X:0 Y:2}: True
+10/13/2024 11:26:21 PM: Placing Horizontal Wall at: {X:0 Y:2} to block opponent's path
+10/13/2024 11:26:24 PM: Invalid move detected, recalculating...
+10/13/2024 11:26:24 PM: Invalid move detected, recalculating...
+10/13/2024 11:26:24 PM: AI Position: {X:4 Y:2}
+10/13/2024 11:26:24 PM: Opponent Position: {X:0 Y:3}
+10/13/2024 11:26:24 PM: AI Walls Remaining: 1
+10/13/2024 11:26:24 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:24 PM: AI Path Length: 23
+10/13/2024 11:26:24 PM: Opponent Path Length: 4
+10/13/2024 11:26:24 PM: Trying to place wall at: {X:0 Y:2}
+10/13/2024 11:26:24 PM: CanPlaceHorizontalWall at {X:0 Y:2}: True
+10/13/2024 11:26:24 PM: Placing Horizontal Wall at: {X:0 Y:2} to block opponent's path
+10/13/2024 11:26:24 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:26:24 PM: Fallback: Moving along path to {X:5 Y:2}
+10/13/2024 11:26:28 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:26:28 PM: Opponent Position: {X:0 Y:2}
+10/13/2024 11:26:28 PM: AI Walls Remaining: 1
+10/13/2024 11:26:28 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:28 PM: AI Path Length: 23
+10/13/2024 11:26:28 PM: Opponent Path Length: 3
+10/13/2024 11:26:28 PM: Trying to place wall at: {X:0 Y:1}
+10/13/2024 11:26:28 PM: CanPlaceHorizontalWall at {X:0 Y:1}: True
+10/13/2024 11:26:28 PM: Placing Horizontal Wall at: {X:0 Y:1} to block opponent's path
+10/13/2024 11:26:32 PM: Invalid move detected, recalculating...
+10/13/2024 11:26:32 PM: Invalid move detected, recalculating...
+10/13/2024 11:26:32 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:26:32 PM: Opponent Position: {X:0 Y:2}
+10/13/2024 11:26:32 PM: AI Walls Remaining: 1
+10/13/2024 11:26:32 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:32 PM: AI Path Length: 23
+10/13/2024 11:26:32 PM: Opponent Path Length: 3
+10/13/2024 11:26:32 PM: Trying to place wall at: {X:0 Y:1}
+10/13/2024 11:26:32 PM: CanPlaceHorizontalWall at {X:0 Y:1}: True
+10/13/2024 11:26:32 PM: Placing Horizontal Wall at: {X:0 Y:1} to block opponent's path
+10/13/2024 11:26:32 PM: Same invalid move detected, switching to goal movement.
+10/13/2024 11:26:32 PM: Fallback: Moving along path to {X:5 Y:1}
+10/13/2024 11:26:33 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:26:33 PM: Opponent Position: {X:0 Y:1}
+10/13/2024 11:26:33 PM: AI Walls Remaining: 1
+10/13/2024 11:26:33 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:33 PM: AI Path Length: 22
+10/13/2024 11:26:33 PM: Opponent Path Length: 2
+10/13/2024 11:26:33 PM: Trying to place wall at: {X:0 Y:0}
+10/13/2024 11:26:33 PM: CanPlaceHorizontalWall at {X:0 Y:0}: True
+10/13/2024 11:26:33 PM: Placing Horizontal Wall at: {X:0 Y:0} to block opponent's path
+10/13/2024 11:26:38 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:26:38 PM: Opponent Position: {X:1 Y:1}
+10/13/2024 11:26:38 PM: AI Walls Remaining: 0
+10/13/2024 11:26:38 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:38 PM: AI Path Length: 22
+10/13/2024 11:26:38 PM: Opponent Path Length: 4
+10/13/2024 11:26:38 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:26:38 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:26:40 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:26:40 PM: Opponent Position: {X:2 Y:1}
+10/13/2024 11:26:40 PM: AI Walls Remaining: 0
+10/13/2024 11:26:40 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:40 PM: AI Path Length: 20
+10/13/2024 11:26:40 PM: Opponent Path Length: 2
+10/13/2024 11:26:40 PM: Moving to: {X:3 Y:1}
+10/13/2024 11:26:40 PM: Moving to: {X:3 Y:1}
+10/13/2024 11:26:42 PM: AI Position: {X:3 Y:1}
+10/13/2024 11:26:42 PM: Opponent Position: {X:3 Y:1}
+10/13/2024 11:26:42 PM: AI Walls Remaining: 0
+10/13/2024 11:26:42 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:42 PM: AI Path Length: 20
+10/13/2024 11:26:42 PM: Opponent Path Length: 2
+10/13/2024 11:26:42 PM: Moving to: {X:2 Y:1}
+10/13/2024 11:26:42 PM: Moving to: {X:2 Y:1}
+10/13/2024 11:26:44 PM: AI Position: {X:2 Y:1}
+10/13/2024 11:26:44 PM: Opponent Position: {X:2 Y:1}
+10/13/2024 11:26:44 PM: AI Walls Remaining: 0
+10/13/2024 11:26:44 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:44 PM: AI Path Length: 20
+10/13/2024 11:26:44 PM: Opponent Path Length: 2
+10/13/2024 11:26:44 PM: Moving to: {X:1 Y:1}
+10/13/2024 11:26:44 PM: Moving to: {X:1 Y:1}
+10/13/2024 11:26:46 PM: AI Position: {X:1 Y:1}
+10/13/2024 11:26:46 PM: Opponent Position: {X:3 Y:1}
+10/13/2024 11:26:46 PM: AI Walls Remaining: 0
+10/13/2024 11:26:46 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:46 PM: AI Path Length: 20
+10/13/2024 11:26:46 PM: Opponent Path Length: 2
+10/13/2024 11:26:46 PM: Moving to: {X:0 Y:1}
+10/13/2024 11:26:46 PM: Moving to: {X:0 Y:1}
+10/13/2024 11:26:49 PM: AI Position: {X:0 Y:1}
+10/13/2024 11:26:49 PM: Opponent Position: {X:4 Y:1}
+10/13/2024 11:26:49 PM: AI Walls Remaining: 0
+10/13/2024 11:26:49 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:49 PM: AI Path Length: 20
+10/13/2024 11:26:49 PM: Opponent Path Length: 2
+10/13/2024 11:26:49 PM: Moving to: {X:0 Y:2}
+10/13/2024 11:26:49 PM: Moving to: {X:0 Y:2}
+10/13/2024 11:26:50 PM: AI Position: {X:0 Y:2}
+10/13/2024 11:26:50 PM: Opponent Position: {X:5 Y:1}
+10/13/2024 11:26:50 PM: AI Walls Remaining: 0
+10/13/2024 11:26:50 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:50 PM: AI Path Length: 19
+10/13/2024 11:26:50 PM: Opponent Path Length: 2
+10/13/2024 11:26:50 PM: Moving to: {X:0 Y:3}
+10/13/2024 11:26:50 PM: Moving to: {X:0 Y:3}
+10/13/2024 11:26:53 PM: AI Position: {X:0 Y:3}
+10/13/2024 11:26:53 PM: Opponent Position: {X:5 Y:2}
+10/13/2024 11:26:53 PM: AI Walls Remaining: 0
+10/13/2024 11:26:53 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:53 PM: AI Path Length: 18
+10/13/2024 11:26:53 PM: Opponent Path Length: 3
+10/13/2024 11:26:53 PM: Moving to: {X:0 Y:4}
+10/13/2024 11:26:53 PM: Moving to: {X:0 Y:4}
+10/13/2024 11:26:56 PM: AI Position: {X:0 Y:4}
+10/13/2024 11:26:56 PM: Opponent Position: {X:5 Y:3}
+10/13/2024 11:26:56 PM: AI Walls Remaining: 0
+10/13/2024 11:26:56 PM: Opponent Walls Remaining: 4
+10/13/2024 11:26:56 PM: AI Path Length: 17
+10/13/2024 11:26:56 PM: Opponent Path Length: 4
+10/13/2024 11:26:56 PM: Moving to: {X:1 Y:4}
+10/13/2024 11:26:56 PM: Moving to: {X:1 Y:4}
+10/13/2024 11:27:05 PM: AI Position: {X:1 Y:4}
+10/13/2024 11:27:05 PM: Opponent Position: {X:5 Y:2}
+10/13/2024 11:27:05 PM: AI Walls Remaining: 0
+10/13/2024 11:27:05 PM: Opponent Walls Remaining: 4
+10/13/2024 11:27:05 PM: AI Path Length: 15
+10/13/2024 11:27:05 PM: Opponent Path Length: 3
+10/13/2024 11:27:05 PM: Moving to: {X:2 Y:4}
+10/13/2024 11:27:05 PM: Moving to: {X:2 Y:4}
+10/13/2024 11:32:12 PM: AI Position: {X:4 Y:0}
+10/13/2024 11:32:12 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:32:12 PM: AI Walls Remaining: 10
+10/13/2024 11:32:12 PM: Opponent Walls Remaining: 10
+10/13/2024 11:32:12 PM: AI Path Length: 9
+10/13/2024 11:32:12 PM: Opponent Path Length: 9
+10/13/2024 11:32:12 PM: Moving to: {X:4 Y:1}
+10/13/2024 11:32:12 PM: Prioritizing movement: Moving to {X:4 Y:1}
+10/13/2024 11:32:17 PM: AI Position: {X:4 Y:1}
+10/13/2024 11:32:17 PM: Opponent Position: {X:4 Y:8}
+10/13/2024 11:32:17 PM: AI Walls Remaining: 10
+10/13/2024 11:32:17 PM: Opponent Walls Remaining: 9
+10/13/2024 11:32:17 PM: AI Path Length: 10
+10/13/2024 11:32:17 PM: Opponent Path Length: 11
+10/13/2024 11:32:17 PM: Moving to: {X:5 Y:1}
+10/13/2024 11:32:17 PM: Prioritizing movement: Moving to {X:5 Y:1}
+10/13/2024 11:32:19 PM: AI Position: {X:5 Y:1}
+10/13/2024 11:32:19 PM: Opponent Position: {X:4 Y:7}
+10/13/2024 11:32:19 PM: AI Walls Remaining: 10
+10/13/2024 11:32:19 PM: Opponent Walls Remaining: 9
+10/13/2024 11:32:19 PM: AI Path Length: 8
+10/13/2024 11:32:19 PM: Opponent Path Length: 10
+10/13/2024 11:32:19 PM: Moving to: {X:5 Y:2}
+10/13/2024 11:32:19 PM: Prioritizing movement: Moving to {X:5 Y:2}
+10/13/2024 11:32:21 PM: AI Position: {X:5 Y:2}
+10/13/2024 11:32:21 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:32:21 PM: AI Walls Remaining: 10
+10/13/2024 11:32:21 PM: Opponent Walls Remaining: 9
+10/13/2024 11:32:21 PM: AI Path Length: 7
+10/13/2024 11:32:21 PM: Opponent Path Length: 9
+10/13/2024 11:32:21 PM: Moving to: {X:5 Y:3}
+10/13/2024 11:32:21 PM: Prioritizing movement: Moving to {X:5 Y:3}
+10/13/2024 11:32:23 PM: AI Position: {X:5 Y:3}
+10/13/2024 11:32:23 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:32:23 PM: AI Walls Remaining: 10
+10/13/2024 11:32:23 PM: Opponent Walls Remaining: 8
+10/13/2024 11:32:23 PM: AI Path Length: 8
+10/13/2024 11:32:23 PM: Opponent Path Length: 9
+10/13/2024 11:32:23 PM: Moving to: {X:4 Y:3}
+10/13/2024 11:32:23 PM: Prioritizing movement: Moving to {X:4 Y:3}
+10/13/2024 11:32:25 PM: AI Position: {X:4 Y:3}
+10/13/2024 11:32:25 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:32:25 PM: AI Walls Remaining: 10
+10/13/2024 11:32:25 PM: Opponent Walls Remaining: 7
+10/13/2024 11:32:25 PM: AI Path Length: 10
+10/13/2024 11:32:25 PM: Opponent Path Length: 11
+10/13/2024 11:32:25 PM: Moving to: {X:3 Y:3}
+10/13/2024 11:32:25 PM: Prioritizing movement: Moving to {X:3 Y:3}
+10/13/2024 11:32:28 PM: AI Position: {X:3 Y:3}
+10/13/2024 11:32:28 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:32:28 PM: AI Walls Remaining: 10
+10/13/2024 11:32:28 PM: Opponent Walls Remaining: 6
+10/13/2024 11:32:28 PM: AI Path Length: 12
+10/13/2024 11:32:28 PM: Opponent Path Length: 13
+10/13/2024 11:32:28 PM: Moving to: {X:2 Y:3}
+10/13/2024 11:32:28 PM: Prioritizing movement: Moving to {X:2 Y:3}
+10/13/2024 11:32:29 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:32:29 PM: Opponent Position: {X:4 Y:6}
+10/13/2024 11:32:29 PM: AI Walls Remaining: 10
+10/13/2024 11:32:29 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:29 PM: AI Path Length: 14
+10/13/2024 11:32:29 PM: Opponent Path Length: 13
+10/13/2024 11:32:29 PM: Trying to place wall at: {X:5 Y:6}
+10/13/2024 11:32:29 PM: CanPlaceHorizontalWall at {X:5 Y:6}: True
+10/13/2024 11:32:29 PM: Placing Horizontal Wall at: {X:5 Y:6} to block opponent
+10/13/2024 11:32:31 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:32:31 PM: Opponent Position: {X:4 Y:5}
+10/13/2024 11:32:31 PM: AI Walls Remaining: 9
+10/13/2024 11:32:31 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:31 PM: AI Path Length: 14
+10/13/2024 11:32:31 PM: Opponent Path Length: 12
+10/13/2024 11:32:31 PM: Trying to place wall at: {X:5 Y:5}
+10/13/2024 11:32:32 PM: CanPlaceHorizontalWall at {X:5 Y:5}: True
+10/13/2024 11:32:32 PM: Placing Horizontal Wall at: {X:5 Y:5} to block opponent
+10/13/2024 11:32:36 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:32:36 PM: Opponent Position: {X:5 Y:5}
+10/13/2024 11:32:36 PM: AI Walls Remaining: 8
+10/13/2024 11:32:36 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:36 PM: AI Path Length: 14
+10/13/2024 11:32:36 PM: Opponent Path Length: 10
+10/13/2024 11:32:36 PM: Trying to place wall at: {X:6 Y:5}
+10/13/2024 11:32:36 PM: CanPlaceHorizontalWall at {X:6 Y:5}: False
+10/13/2024 11:32:36 PM: CanPlaceVerticalWall at {X:6 Y:5}: True
+10/13/2024 11:32:36 PM: Placing Vertical Wall at: {X:6 Y:5} to block opponent
+10/13/2024 11:32:37 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:32:37 PM: Opponent Position: {X:5 Y:4}
+10/13/2024 11:32:37 PM: AI Walls Remaining: 7
+10/13/2024 11:32:37 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:37 PM: AI Path Length: 14
+10/13/2024 11:32:37 PM: Opponent Path Length: 9
+10/13/2024 11:32:37 PM: Trying to place wall at: {X:6 Y:4}
+10/13/2024 11:32:37 PM: CanPlaceHorizontalWall at {X:6 Y:4}: True
+10/13/2024 11:32:37 PM: Placing Horizontal Wall at: {X:6 Y:4} to block opponent
+10/13/2024 11:32:39 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:32:39 PM: Opponent Position: {X:6 Y:4}
+10/13/2024 11:32:39 PM: AI Walls Remaining: 6
+10/13/2024 11:32:39 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:39 PM: AI Path Length: 14
+10/13/2024 11:32:39 PM: Opponent Path Length: 7
+10/13/2024 11:32:39 PM: Trying to place wall at: {X:7 Y:4}
+10/13/2024 11:32:39 PM: CanPlaceHorizontalWall at {X:7 Y:4}: False
+10/13/2024 11:32:39 PM: CanPlaceVerticalWall at {X:7 Y:4}: True
+10/13/2024 11:32:39 PM: Placing Vertical Wall at: {X:7 Y:4} to block opponent
+10/13/2024 11:32:41 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:32:41 PM: Opponent Position: {X:7 Y:4}
+10/13/2024 11:32:41 PM: AI Walls Remaining: 5
+10/13/2024 11:32:41 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:41 PM: AI Path Length: 14
+10/13/2024 11:32:41 PM: Opponent Path Length: 5
+10/13/2024 11:32:41 PM: Trying to place wall at: {X:7 Y:3}
+10/13/2024 11:32:41 PM: CanPlaceHorizontalWall at {X:7 Y:3}: True
+10/13/2024 11:32:41 PM: Placing Horizontal Wall at: {X:7 Y:3} to block opponent
+10/13/2024 11:32:43 PM: AI Position: {X:2 Y:3}
+10/13/2024 11:32:43 PM: Opponent Position: {X:6 Y:4}
+10/13/2024 11:32:43 PM: AI Walls Remaining: 4
+10/13/2024 11:32:43 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:43 PM: AI Path Length: 14
+10/13/2024 11:32:43 PM: Opponent Path Length: 17
+10/13/2024 11:32:43 PM: Moving to: {X:1 Y:3}
+10/13/2024 11:32:43 PM: Prioritizing movement: Moving to {X:1 Y:3}
+10/13/2024 11:32:46 PM: AI Position: {X:1 Y:3}
+10/13/2024 11:32:46 PM: Opponent Position: {X:5 Y:4}
+10/13/2024 11:32:46 PM: AI Walls Remaining: 4
+10/13/2024 11:32:46 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:46 PM: AI Path Length: 12
+10/13/2024 11:32:46 PM: Opponent Path Length: 15
+10/13/2024 11:32:46 PM: Moving to: {X:1 Y:2}
+10/13/2024 11:32:46 PM: Prioritizing movement: Moving to {X:1 Y:2}
+10/13/2024 11:32:48 PM: AI Position: {X:1 Y:2}
+10/13/2024 11:32:48 PM: Opponent Position: {X:4 Y:4}
+10/13/2024 11:32:48 PM: AI Walls Remaining: 4
+10/13/2024 11:32:48 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:48 PM: AI Path Length: 11
+10/13/2024 11:32:48 PM: Opponent Path Length: 13
+10/13/2024 11:32:48 PM: Moving to: {X:1 Y:1}
+10/13/2024 11:32:48 PM: Prioritizing movement: Moving to {X:1 Y:1}
+10/13/2024 11:32:52 PM: AI Position: {X:1 Y:1}
+10/13/2024 11:32:52 PM: Opponent Position: {X:3 Y:4}
+10/13/2024 11:32:52 PM: AI Walls Remaining: 4
+10/13/2024 11:32:52 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:52 PM: AI Path Length: 10
+10/13/2024 11:32:52 PM: Opponent Path Length: 11
+10/13/2024 11:32:52 PM: Moving to: {X:0 Y:1}
+10/13/2024 11:32:52 PM: Prioritizing movement: Moving to {X:0 Y:1}
+10/13/2024 11:32:53 PM: AI Position: {X:0 Y:1}
+10/13/2024 11:32:53 PM: Opponent Position: {X:2 Y:4}
+10/13/2024 11:32:53 PM: AI Walls Remaining: 4
+10/13/2024 11:32:53 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:53 PM: AI Path Length: 8
+10/13/2024 11:32:53 PM: Opponent Path Length: 9
+10/13/2024 11:32:53 PM: Moving to: {X:0 Y:2}
+10/13/2024 11:32:53 PM: Prioritizing movement: Moving to {X:0 Y:2}
+10/13/2024 11:32:56 PM: AI Position: {X:0 Y:2}
+10/13/2024 11:32:56 PM: Opponent Position: {X:1 Y:4}
+10/13/2024 11:32:56 PM: AI Walls Remaining: 4
+10/13/2024 11:32:56 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:56 PM: AI Path Length: 7
+10/13/2024 11:32:56 PM: Opponent Path Length: 7
+10/13/2024 11:32:56 PM: Moving to: {X:0 Y:3}
+10/13/2024 11:32:56 PM: Prioritizing movement: Moving to {X:0 Y:3}
+10/13/2024 11:32:57 PM: AI Position: {X:0 Y:3}
+10/13/2024 11:32:57 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:32:57 PM: AI Walls Remaining: 4
+10/13/2024 11:32:57 PM: Opponent Walls Remaining: 5
+10/13/2024 11:32:57 PM: AI Path Length: 6
+10/13/2024 11:32:57 PM: Opponent Path Length: 5
+10/13/2024 11:32:57 PM: Trying to place wall at: {X:0 Y:3}
+10/13/2024 11:32:57 PM: CanPlaceHorizontalWall at {X:0 Y:3}: True
+10/13/2024 11:32:57 PM: Placing Horizontal Wall at: {X:0 Y:3} to block opponent
+10/13/2024 11:33:01 PM: Invalid move detected, recalculating...
+10/13/2024 11:33:01 PM: Recalculating new move after invalid move...
+10/13/2024 11:33:01 PM: AI Position: {X:0 Y:3}
+10/13/2024 11:33:01 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:33:01 PM: AI Walls Remaining: 4
+10/13/2024 11:33:01 PM: Opponent Walls Remaining: 5
+10/13/2024 11:33:01 PM: AI Path Length: 6
+10/13/2024 11:33:01 PM: Opponent Path Length: 5
+10/13/2024 11:33:01 PM: Trying to place wall at: {X:0 Y:3}
+10/13/2024 11:33:01 PM: CanPlaceHorizontalWall at {X:0 Y:3}: True
+10/13/2024 11:33:01 PM: Placing Horizontal Wall at: {X:0 Y:3} to block opponent
+10/13/2024 11:33:01 PM: Same invalid move detected, switching to movement.
+10/13/2024 11:33:01 PM: Fallback: Moving to {X:0 Y:4}
+10/13/2024 11:33:02 PM: AI Position: {X:0 Y:4}
+10/13/2024 11:33:02 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:33:02 PM: AI Walls Remaining: 4
+10/13/2024 11:33:02 PM: Opponent Walls Remaining: 4
+10/13/2024 11:33:02 PM: AI Path Length: 9
+10/13/2024 11:33:02 PM: Opponent Path Length: 5
+10/13/2024 11:33:02 PM: Trying to place wall at: {X:0 Y:3}
+10/13/2024 11:33:02 PM: CanPlaceHorizontalWall at {X:0 Y:3}: True
+10/13/2024 11:33:02 PM: Placing Horizontal Wall at: {X:0 Y:3} to block opponent
+10/13/2024 11:33:06 PM: Invalid move detected, recalculating...
+10/13/2024 11:33:06 PM: Recalculating new move after invalid move...
+10/13/2024 11:33:06 PM: AI Position: {X:0 Y:4}
+10/13/2024 11:33:06 PM: Opponent Position: {X:0 Y:4}
+10/13/2024 11:33:06 PM: AI Walls Remaining: 4
+10/13/2024 11:33:06 PM: Opponent Walls Remaining: 4
+10/13/2024 11:33:06 PM: AI Path Length: 9
+10/13/2024 11:33:06 PM: Opponent Path Length: 5
+10/13/2024 11:33:06 PM: Trying to place wall at: {X:0 Y:3}
+10/13/2024 11:33:06 PM: CanPlaceHorizontalWall at {X:0 Y:3}: True
+10/13/2024 11:33:06 PM: Placing Horizontal Wall at: {X:0 Y:3} to block opponent
+10/13/2024 11:33:06 PM: Same invalid move detected, switching to movement.
+10/13/2024 11:33:06 PM: Fallback: Moving to {X:1 Y:4}
+10/13/2024 11:33:07 PM: AI Position: {X:1 Y:4}
+10/13/2024 11:33:07 PM: Opponent Position: {X:0 Y:3}
+10/13/2024 11:33:07 PM: AI Walls Remaining: 4
+10/13/2024 11:33:07 PM: Opponent Walls Remaining: 4
+10/13/2024 11:33:07 PM: AI Path Length: 7
+10/13/2024 11:33:07 PM: Opponent Path Length: 4
+10/13/2024 11:33:07 PM: Trying to place wall at: {X:0 Y:2}
+10/13/2024 11:33:07 PM: CanPlaceHorizontalWall at {X:0 Y:2}: True
+10/13/2024 11:33:07 PM: Placing Horizontal Wall at: {X:0 Y:2} to block opponent
+10/13/2024 11:33:10 PM: Invalid move detected, recalculating...
+10/13/2024 11:33:10 PM: Recalculating new move after invalid move...
+10/13/2024 11:33:10 PM: AI Position: {X:1 Y:4}
+10/13/2024 11:33:10 PM: Opponent Position: {X:0 Y:3}
+10/13/2024 11:33:10 PM: AI Walls Remaining: 4
+10/13/2024 11:33:10 PM: Opponent Walls Remaining: 4
+10/13/2024 11:33:10 PM: AI Path Length: 7
+10/13/2024 11:33:10 PM: Opponent Path Length: 4
+10/13/2024 11:33:10 PM: Trying to place wall at: {X:0 Y:2}
+10/13/2024 11:33:10 PM: CanPlaceHorizontalWall at {X:0 Y:2}: True
+10/13/2024 11:33:10 PM: Placing Horizontal Wall at: {X:0 Y:2} to block opponent
+10/13/2024 11:33:10 PM: Same invalid move detected, switching to movement.
+10/13/2024 11:33:10 PM: Fallback: Moving to {X:2 Y:4}
+10/13/2024 11:33:14 PM: AI Position: {X:2 Y:4}
+10/13/2024 11:33:14 PM: Opponent Position: {X:0 Y:3}
+10/13/2024 11:33:14 PM: AI Walls Remaining: 4
+10/13/2024 11:33:14 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:14 PM: AI Path Length: 9
+10/13/2024 11:33:14 PM: Opponent Path Length: 4
+10/13/2024 11:33:14 PM: Trying to place wall at: {X:0 Y:2}
+10/13/2024 11:33:14 PM: CanPlaceHorizontalWall at {X:0 Y:2}: True
+10/13/2024 11:33:14 PM: Placing Horizontal Wall at: {X:0 Y:2} to block opponent
+10/13/2024 11:33:18 PM: Invalid move detected, recalculating...
+10/13/2024 11:33:18 PM: Recalculating new move after invalid move...
+10/13/2024 11:33:18 PM: AI Position: {X:2 Y:4}
+10/13/2024 11:33:18 PM: Opponent Position: {X:0 Y:3}
+10/13/2024 11:33:18 PM: AI Walls Remaining: 4
+10/13/2024 11:33:18 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:18 PM: AI Path Length: 9
+10/13/2024 11:33:18 PM: Opponent Path Length: 4
+10/13/2024 11:33:18 PM: Trying to place wall at: {X:0 Y:2}
+10/13/2024 11:33:18 PM: CanPlaceHorizontalWall at {X:0 Y:2}: True
+10/13/2024 11:33:18 PM: Placing Horizontal Wall at: {X:0 Y:2} to block opponent
+10/13/2024 11:33:18 PM: Same invalid move detected, switching to movement.
+10/13/2024 11:33:18 PM: Fallback: Moving to {X:3 Y:4}
+10/13/2024 11:33:21 PM: AI Position: {X:3 Y:4}
+10/13/2024 11:33:21 PM: Opponent Position: {X:0 Y:2}
+10/13/2024 11:33:21 PM: AI Walls Remaining: 4
+10/13/2024 11:33:21 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:21 PM: AI Path Length: 7
+10/13/2024 11:33:21 PM: Opponent Path Length: 3
+10/13/2024 11:33:21 PM: Trying to place wall at: {X:0 Y:1}
+10/13/2024 11:33:21 PM: CanPlaceHorizontalWall at {X:0 Y:1}: True
+10/13/2024 11:33:21 PM: Placing Horizontal Wall at: {X:0 Y:1} to block opponent
+10/13/2024 11:33:25 PM: Invalid move detected, recalculating...
+10/13/2024 11:33:25 PM: Recalculating new move after invalid move...
+10/13/2024 11:33:25 PM: AI Position: {X:3 Y:4}
+10/13/2024 11:33:25 PM: Opponent Position: {X:0 Y:2}
+10/13/2024 11:33:25 PM: AI Walls Remaining: 4
+10/13/2024 11:33:25 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:25 PM: AI Path Length: 7
+10/13/2024 11:33:25 PM: Opponent Path Length: 3
+10/13/2024 11:33:25 PM: Trying to place wall at: {X:0 Y:1}
+10/13/2024 11:33:25 PM: CanPlaceHorizontalWall at {X:0 Y:1}: True
+10/13/2024 11:33:25 PM: Placing Horizontal Wall at: {X:0 Y:1} to block opponent
+10/13/2024 11:33:25 PM: Same invalid move detected, switching to movement.
+10/13/2024 11:33:25 PM: Fallback: Moving to {X:4 Y:4}
+10/13/2024 11:33:32 PM: AI Position: {X:4 Y:4}
+10/13/2024 11:33:32 PM: Opponent Position: {X:0 Y:1}
+10/13/2024 11:33:32 PM: AI Walls Remaining: 4
+10/13/2024 11:33:32 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:32 PM: AI Path Length: 5
+10/13/2024 11:33:32 PM: Opponent Path Length: 2
+10/13/2024 11:33:32 PM: Trying to place wall at: {X:0 Y:0}
+10/13/2024 11:33:32 PM: CanPlaceHorizontalWall at {X:0 Y:0}: True
+10/13/2024 11:33:32 PM: Placing Horizontal Wall at: {X:0 Y:0} to block opponent
+10/13/2024 11:33:34 PM: AI Position: {X:4 Y:4}
+10/13/2024 11:33:34 PM: Opponent Position: {X:1 Y:1}
+10/13/2024 11:33:34 PM: AI Walls Remaining: 3
+10/13/2024 11:33:34 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:34 PM: AI Path Length: 5
+10/13/2024 11:33:34 PM: Opponent Path Length: 4
+10/13/2024 11:33:34 PM: Trying to place wall at: {X:2 Y:1}
+10/13/2024 11:33:34 PM: CanPlaceHorizontalWall at {X:2 Y:1}: True
+10/13/2024 11:33:34 PM: Placing Horizontal Wall at: {X:2 Y:1} to block opponent
+10/13/2024 11:33:38 PM: Invalid move detected, recalculating...
+10/13/2024 11:33:38 PM: Recalculating new move after invalid move...
+10/13/2024 11:33:38 PM: AI Position: {X:4 Y:4}
+10/13/2024 11:33:38 PM: Opponent Position: {X:1 Y:1}
+10/13/2024 11:33:38 PM: AI Walls Remaining: 3
+10/13/2024 11:33:38 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:38 PM: AI Path Length: 5
+10/13/2024 11:33:38 PM: Opponent Path Length: 4
+10/13/2024 11:33:38 PM: Trying to place wall at: {X:2 Y:1}
+10/13/2024 11:33:38 PM: CanPlaceHorizontalWall at {X:2 Y:1}: True
+10/13/2024 11:33:38 PM: Placing Horizontal Wall at: {X:2 Y:1} to block opponent
+10/13/2024 11:33:38 PM: Same invalid move detected, switching to movement.
+10/13/2024 11:33:38 PM: Fallback: Moving to {X:4 Y:5}
+10/13/2024 11:33:39 PM: AI Position: {X:4 Y:5}
+10/13/2024 11:33:39 PM: Opponent Position: {X:2 Y:1}
+10/13/2024 11:33:39 PM: AI Walls Remaining: 3
+10/13/2024 11:33:39 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:39 PM: AI Path Length: 4
+10/13/2024 11:33:39 PM: Opponent Path Length: 2
+10/13/2024 11:33:39 PM: Trying to place wall at: {X:2 Y:0}
+10/13/2024 11:33:39 PM: CanPlaceHorizontalWall at {X:2 Y:0}: True
+10/13/2024 11:33:39 PM: Placing Horizontal Wall at: {X:2 Y:0} to block opponent
+10/13/2024 11:33:41 PM: AI Position: {X:4 Y:5}
+10/13/2024 11:33:41 PM: Opponent Position: {X:3 Y:1}
+10/13/2024 11:33:41 PM: AI Walls Remaining: 2
+10/13/2024 11:33:41 PM: Opponent Walls Remaining: 3
+10/13/2024 11:33:41 PM: AI Path Length: 4
+10/13/2024 11:33:41 PM: Opponent Path Length: 4
+10/13/2024 11:33:41 PM: Moving to: {X:4 Y:6}
+10/13/2024 11:33:41 PM: Prioritizing movement: Moving to {X:4 Y:6}
+10/13/2024 11:33:47 PM: AI Position: {X:4 Y:6}
+10/13/2024 11:33:47 PM: Opponent Position: {X:3 Y:1}
+10/13/2024 11:33:47 PM: AI Walls Remaining: 2
+10/13/2024 11:33:47 PM: Opponent Walls Remaining: 2
+10/13/2024 11:33:47 PM: AI Path Length: 7
+10/13/2024 11:33:47 PM: Opponent Path Length: 4
+10/13/2024 11:33:47 PM: Trying to place wall at: {X:4 Y:1}
+10/13/2024 11:33:47 PM: CanPlaceHorizontalWall at {X:4 Y:1}: False
+10/13/2024 11:33:47 PM: CanPlaceVerticalWall at {X:4 Y:1}: True
+10/13/2024 11:33:47 PM: Placing Vertical Wall at: {X:4 Y:1} to block opponent
+10/13/2024 11:33:49 PM: AI Position: {X:4 Y:6}
+10/13/2024 11:33:49 PM: Opponent Position: {X:4 Y:1}
+10/13/2024 11:33:49 PM: AI Walls Remaining: 1
+10/13/2024 11:33:49 PM: Opponent Walls Remaining: 2
+10/13/2024 11:33:49 PM: AI Path Length: 7
+10/13/2024 11:33:49 PM: Opponent Path Length: 2
+10/13/2024 11:33:49 PM: Trying to place wall at: {X:4 Y:0}
+10/13/2024 11:33:49 PM: CanPlaceHorizontalWall at {X:4 Y:0}: True
+10/13/2024 11:33:49 PM: Placing Horizontal Wall at: {X:4 Y:0} to block opponent
+10/13/2024 11:33:56 PM: AI Position: {X:4 Y:6}
+10/13/2024 11:33:56 PM: Opponent Position: {X:3 Y:1}
+10/13/2024 11:33:56 PM: AI Walls Remaining: 0
+10/13/2024 11:33:56 PM: Opponent Walls Remaining: 2
+10/13/2024 11:33:56 PM: AI Path Length: 7
+10/13/2024 11:33:56 PM: Opponent Path Length: 14
+10/13/2024 11:33:56 PM: Moving to: {X:3 Y:6}
+10/13/2024 11:33:56 PM: Prioritizing movement: Moving to {X:3 Y:6}
+10/13/2024 11:34:05 PM: AI Position: {X:3 Y:6}
+10/13/2024 11:34:05 PM: Opponent Position: {X:3 Y:1}
+10/13/2024 11:34:05 PM: AI Walls Remaining: 0
+10/13/2024 11:34:05 PM: Opponent Walls Remaining: 1
+10/13/2024 11:34:05 PM: AI Path Length: 9
+10/13/2024 11:34:05 PM: Opponent Path Length: 14
+10/13/2024 11:34:05 PM: Moving to: {X:2 Y:6}
+10/13/2024 11:34:05 PM: Prioritizing movement: Moving to {X:2 Y:6}
+10/13/2024 11:34:08 PM: AI Position: {X:2 Y:6}
+10/13/2024 11:34:08 PM: Opponent Position: {X:3 Y:1}
+10/13/2024 11:34:08 PM: AI Walls Remaining: 0
+10/13/2024 11:34:08 PM: Opponent Walls Remaining: 0
+10/13/2024 11:34:08 PM: AI Path Length: 9
+10/13/2024 11:34:08 PM: Opponent Path Length: 14
+10/13/2024 11:34:08 PM: Moving to: {X:1 Y:6}
+10/13/2024 11:34:08 PM: Prioritizing movement: Moving to {X:1 Y:6}
+10/13/2024 11:34:15 PM: AI Position: {X:1 Y:6}
+10/13/2024 11:34:15 PM: Opponent Position: {X:2 Y:1}
+10/13/2024 11:34:15 PM: AI Walls Remaining: 0
+10/13/2024 11:34:15 PM: Opponent Walls Remaining: 0
+10/13/2024 11:34:15 PM: AI Path Length: 7
+10/13/2024 11:34:15 PM: Opponent Path Length: 14
+10/13/2024 11:34:15 PM: Moving to: {X:1 Y:5}
+10/13/2024 11:34:15 PM: Prioritizing movement: Moving to {X:1 Y:5}
+10/13/2024 11:34:22 PM: AI Position: {X:1 Y:5}
+10/13/2024 11:34:22 PM: Opponent Position: {X:2 Y:2}
+10/13/2024 11:34:22 PM: AI Walls Remaining: 0
+10/13/2024 11:34:22 PM: Opponent Walls Remaining: 0
+10/13/2024 11:34:22 PM: AI Path Length: 6
+10/13/2024 11:34:22 PM: Opponent Path Length: 13
+10/13/2024 11:34:22 PM: Moving to: {X:0 Y:5}
+10/13/2024 11:34:22 PM: Prioritizing movement: Moving to {X:0 Y:5}
+10/13/2024 11:34:24 PM: AI Position: {X:0 Y:5}
+10/13/2024 11:34:24 PM: Opponent Position: {X:3 Y:2}
+10/13/2024 11:34:24 PM: AI Walls Remaining: 0
+10/13/2024 11:34:24 PM: Opponent Walls Remaining: 0
+10/13/2024 11:34:24 PM: AI Path Length: 4
+10/13/2024 11:34:24 PM: Opponent Path Length: 11
+10/13/2024 11:34:24 PM: Moving to: {X:0 Y:6}
+10/13/2024 11:34:24 PM: Prioritizing movement: Moving to {X:0 Y:6}
+10/13/2024 11:34:28 PM: AI Position: {X:0 Y:6}
+10/13/2024 11:34:28 PM: Opponent Position: {X:4 Y:2}
+10/13/2024 11:34:28 PM: AI Walls Remaining: 0
+10/13/2024 11:34:28 PM: Opponent Walls Remaining: 0
+10/13/2024 11:34:28 PM: AI Path Length: 3
+10/13/2024 11:34:28 PM: Opponent Path Length: 9
+10/13/2024 11:34:28 PM: Moving to: {X:0 Y:7}
+10/13/2024 11:34:28 PM: Prioritizing movement: Moving to {X:0 Y:7}
+10/13/2024 11:34:31 PM: AI Position: {X:0 Y:7}
+10/13/2024 11:34:31 PM: Opponent Position: {X:4 Y:3}
+10/13/2024 11:34:31 PM: AI Walls Remaining: 0
+10/13/2024 11:34:31 PM: Opponent Walls Remaining: 0
+10/13/2024 11:34:31 PM: AI Path Length: 2
+10/13/2024 11:34:31 PM: Opponent Path Length: 8
+10/13/2024 11:34:31 PM: Moving to: {X:0 Y:8}
+10/13/2024 11:34:31 PM: Prioritizing movement: Moving to {X:0 Y:8}

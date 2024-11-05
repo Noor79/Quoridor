@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/OlleSyncM/MAH/GU/DA304A/Kod/Qgame/AISimple/Content/Fonts/TimesNewRoman14.spritefont</SourceFile>
+  <SourceTime>2021-10-06T15:38:12.9376227+02:00</SourceTime>
+  <DestFile>D:/OlleSyncM/MAH/GU/DA304A/Kod/Qgame/AISimple/Content/bin/Windows/Fonts/TimesNewRoman14.xnb</DestFile>
+  <DestTime>2021-10-06T15:38:22.1501687+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

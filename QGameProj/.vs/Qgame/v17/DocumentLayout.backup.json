@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noora\\MAU\\kurser\\datastruktur\\Quoridor230928\\Quoridor\\QGameProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2FE8C1-81A1-4893-BF5F-DB02CF58829E}|Student\\Student.csproj|c:\\users\\noora\\mau\\kurser\\datastruktur\\quoridor230928\\quoridor\\qgameproj\\student\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2FE8C1-81A1-4893-BF5F-DB02CF58829E}|Student\\Student.csproj|solutionrelative:student\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\noora\\MAU\\kurser\\datastruktur\\Quoridor230928\\Quoridor\\QGameProj\\Student\\Agent.cs",
+              "RelativeDocumentMoniker": "Student\\Agent.cs",
+              "ToolTip": "C:\\Users\\noora\\MAU\\kurser\\datastruktur\\Quoridor230928\\Quoridor\\QGameProj\\Student\\Agent.cs",
+              "RelativeToolTip": "Student\\Agent.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwG4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:21:26.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
